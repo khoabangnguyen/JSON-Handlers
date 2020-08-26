@@ -1,0 +1,31 @@
+﻿bill_payment.title,Bill payment instructions
+bill_payment.sub_title,"The steps may vary from bank to bank, but usually it's a similar process. You can also find an instructions on your bank website. Please, follow these steps."
+bill_payment.steps.step_1,Login to your Online Banking and go to the Bill Payment Section
+bill_payment.steps.step_2,"Select ""Add Payee"""
+bill_payment.steps.step_3,Type Remitbee in the search field and Select it.
+bill_payment.steps.step_4,Enter your account number - your Remitbee Account No.
+bill_payment.steps.step_5,Select Verify Payee
+bill_payment.steps.step_6,"Next, enter amount of your transfer and review all the transfer details."
+bill_payment.steps.step_7,Click Submit to complete your payment.
+bill_payment.funding_time,Please allow us up to 1 business day to deposit funds into your wallet.
+bill_payment.remitbee_account_number,Remitbee account number
+bill_payment.amount_to_send,Amount to send
+bill_payment.note,"You're all set! Once you’ve added Remitbee as a bill payee with your bank, you can easily use this payment method in the future."
+bill_payment.have_questions,Have questions? Check our
+bill_payment.account_number,1.42E+13
+bill_payment.bill_payment_tutorial,bill payment tutorial
+bill_payment.amount,{{amount}} CAD
+interac_e_transfer.title,E- transfer උපදෙස්
+interac_e_transfer.steps.step_1,E-transfers done between 10 am-7 pm EST are credited within same day.
+interac_e_transfer.steps.step_2,Login to your online banking and send a new Interac e-Transfer using the data displayed below.
+interac_e_transfer.remitbee,Remitbee
+interac_e_transfer.recipient_name,Recipient name
+interac_e_transfer.recipient_email,wallet@remitbee.com
+interac_e_transfer.recipient_email_address,Recipient email address
+interac_e_transfer.what_is_my_user_id,What is my User ID?
+interac_e_transfer.security_question,Security question
+interac_e_transfer.security_answer,Security answer
+interac_e_transfer.message_to_recipient,Message to recipient (your email address)
+notify_steps.notify,We will notify you through email when the money is loaded in your wallet.
+notify_steps.note,Note: It may take up to 24 hours for the funds to be credited to your wallet.
+continue_button_title,Send me an email with instructions

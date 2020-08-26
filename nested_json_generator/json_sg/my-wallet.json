@@ -1,0 +1,74 @@
+{
+    "\ufeffwallet_box_title": "Your wallet balance",
+    "wallet_id": "Wallet ID",
+    "wallet_box_transfer_button": "Transfer",
+    "wallet_box_deposit_button": "Deposit",
+    "wallet_box_link": "Need a withdraw?",
+    "title": "Remitbee wallet",
+    "history_table_title": "Your wallet transactions",
+    "history_table_header_date": "Date",
+    "history_table_header_description": "Description",
+    "history_table_header_amount": "\u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0db1\u0dba",
+    "history_table_header_status": "Status",
+    "history_table_header_total_balance": "Total Balance",
+    "history_table_header_details": "Details",
+    "history_table_row_item_view_details": "View details",
+    "chip_label": "chipLabel",
+    "date": "Date:",
+    "alt_amount": "Amount:",
+    "free": "Free",
+    "wallet_view_details_dialog": {
+        "title": "Wallet transaction details",
+        "stepper_initiated": "Initiated",
+        "stepper_in_queue": "In queue",
+        "stepper_completed": "Completed",
+        "stepper_failed": "Not approved",
+        "transaction_id": "Transaction ID",
+        "payment_method": "\u0d9c\u0dd9\u0dc0\u0dd3\u0db8\u0dda \u0d9a\u0dca\u200d\u0dbb\u0db8\u0dba",
+        "transaction_status": "Transaction status",
+        "date_initiated": "Date initiated",
+        "date_completed": "Date completed",
+        "amount": "\u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0db1\u0dba",
+        "total_wallet_balance": "Total wallet balance",
+        "share_button": "Share",
+        "download_button": "Download",
+        "continue_button": "\u0daf\u0dd2\u0d9c\u0da7\u0db8 \u0d9a\u0dbb\u0d9c\u0dd9\u0db1 \u0dba\u0db1\u0dca\u0db1"
+    },
+    "wallet_deposit_dialog": {
+        "title": "Choose the deposit method",
+        "sub_title": "Select a type of deposit you want to use for funding Remitbee wallet.",
+        "switch_option_1": "E-transfer",
+        "switch_option_2": "Bill payment",
+        "banks_available": "Available for:"
+    },
+    "dialog": {
+        "success_title": "Your transaction was successfull",
+        "failed_title": "Your transaction was not completed",
+        "failed_message": "Please reach one of our customer service channels for more details.",
+        "got_it": "Got it",
+        "instructions": "Show the {{paymentTypeLabel}} instructions",
+        "open_bank": "Open bank website",
+        "eft_success_message": "Your funds should arrive in your wallet within 2 business days. We'll send you notification once its added.",
+        "bill_payment_success_message": "Your funds should arrive within 1 business day if you send it before 4pm EST. We'll send you a notification once its added.",
+        "e_transfer_success_message": "Once we receive your e-transfer it will be updated into your wallet. We'll send you a notification once its added usually within 1-4 hours."
+    },
+    "filter": {
+        "status": "Status",
+        "all": "All",
+        "payment_types": "Payment types",
+        "start_date": "Start date",
+        "end_date": "End date"
+    },
+    "payment_types": {
+        "bill_payment": "Bill payment",
+        "debit": "Debit",
+        "interact": "Interact",
+        "interact_e-transfer": "Interact E-Transfer",
+        "wallet": "Wallet"
+    },
+    "status": {
+        "completed": "Completed",
+        "pending": "Pending"
+    },
+    "cad": "CAD"
+}

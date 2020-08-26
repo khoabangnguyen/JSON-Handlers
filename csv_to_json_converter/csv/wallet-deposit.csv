@@ -1,0 +1,55 @@
+﻿deposit_method_stepper_title,அனுப்பும் முறை
+deposit_method_title,
+deposit_method_sub-title,
+deposit_method_eft,நேரடி திரும்பப் பெறுதல் ஈஎப்ரி (EFT)
+deposit_method_interac_e_transfer,ஈ-பரிமாற்றம்
+deposit_method_bill_payment,பில் கட்டணம்
+deposit_method_tranfer_speed,1-2 வேலை நாட்கள்
+bank_details_stepper_title,வங்கி விவரங்கள்
+bank_details_title,அனுப்பும் முறையைத் தேரிவுசெய்க
+bank_details_sub-title,"ரெமிட்பீ வாலிட்டிற்கு நிதியளிக்க நீங்கள் பயன்படுத்த விரும்பும் கட்டண வகையைத் தேர்ந்தெடுக்கவும். குறிப்பு, இந்த கட்டண முறைகள் அனைத்தும்"
+bank_details_fee_text,கட்டணம் ஒன்றும் இல்லை! அதிக செலவும் இல்லை! எல்லாமே இலவசம்! ஒரு பிரச்னையும் இல்லாமல் உங்கள் பணம் போய் சேர்ந்து விடும் இது புது யுகம்
+bank_details_transfer_speed,வேகமாக அனுப்புங்கள்
+bank_details_1 hour,ஒரு மனிநேரம்
+bank_details_select_other_payment_method,பிற கட்டண முறையைத் தேர்ந்தெடுக்கவும்
+bank_details_failed_interac_payment,"மன்னிக்கவும்! உங்கள் கட்டணத்தை எங்களால் செயல்படுத்த முடியவில்லை. தயவுசெய்து, மீண்டும் முயற்சிக்கவும் அல்லது வேறு கட்டண முறையைத் தேர்ந்தெடுக்கவும்."
+bank_details_payment_option_unavailable,விரைவில் கிடைக்கும்
+bank_details_enter_your_bank_info,உங்கள் வங்கி தகவலை உள்ளிடவும்
+bank_details_bank_institution_number,வங்கி நிறுவன எண்
+bank_details_transit_number,போக்குவரத்து எண்
+bank_details_account_number,வங்கி இலக்கம்
+bank_details_confirm_your_identity,உங்கள் அடையாளத்தை உறுதிப்படுத்தவும்
+bank_details_confirm_your_identity_message,"தயவுசெய்து, உங்கள் வலை கேமராவைப் பயன்படுத்தி உங்கள் ஐடியுடன் செல்ப்பி எடுத்துக் கொள்ளுங்கள். உங்கள் சாதனத்தில் வலை கேமரா இல்லையென்றால், உங்கள் தொலைபேசி அல்லது லேப்டப்பில்லிருந்து இந்த படிநிலையை முடிக்க முடியும். எல்லா தகவல்களும், உங்கள் முகமும் தெரியும் என்பதை உறுதிப்படுத்திக் கொள்ளுங்கள், மேலும் புகைப்படத்தில் நல்ல தரம் உள்ளது."
+bank_details_take_selfie_with_id,ஐடியுடன் செல்ப்பி எடுத்துக் கொள்ளுங்கள்
+bank_details_institution_number_3_digits,நிறுவன எண்ணில் 3 இலக்கங்கள் இருக்க வேண்டும்
+bank_details_selfie_instructions,"தயவுசெய்து, உங்கள் ஐடியுடன் செல்ப்பி எடுங்கள். உங்கள் ஐடி உங்கள் முகத்திற்கு அருகில் இருப்பதையும், அனைத்து தகவல்களும் தெளிவாக படிக்கக்கூடியதா என்பதையும் உறுதிப்படுத்திக் கொள்ளுங்கள்"
+bank_details_eft_info_tooltip,இந்த தகவலை உங்கள் காசோலை புத்தகத்தில் அல்லது உங்கள் ஆன்லைன் வங்கி போர்ட்டலில் காணலாம்
+bank_details_institution_no_validation_msg,நிறுவன எண்ணில் 3 இலக்கங்கள் இருக்க வேண்டும்
+bank_details_transit_no_validation_msg,போக்குவரத்து எண்ணில் 5 இலக்கங்கள் இருக்க வேண்டும்
+bank_details_link_your_bank_account,உங்கள் வங்கிக் கணக்கை இணைக்கவும்
+overview_stepper_title,கண்ணோட்டம்
+overview_deposit_overview,வாலிட் வைப்பு கண்ணோட்டம்
+overview_deposit_summary,அனுப்பும் சமரி &ன் சுருக்கம்
+overview_deposit_amount,அனுப்பும் தொகை
+overview_deposit_method,அனுப்பும் முறை
+overview_eft,நேரடி திரும்பப் பெறுதல் ஈஎப்ரி (EFT)
+overview_interac_e_transfer,ஈ-பரிமாற்றம்
+overview_bill_payment,பில் கட்டணம்
+overview_fees,கூலி
+overview_bank_name,வங்கி பெயர்
+overview_transit_number,போக்குவரத்து முறை
+overview_account_number,வங்கி இலக்கம்
+overview_confirm_send,உறுதிசெய்து அனுப்புங்கள்
+overview_estimated_deposit_date,மதிப்பிடப்பட்ட வைப்பு தேதி
+overview_your_total,உங்கள் மொத்த கட்டணம்
+overview_free,இலவசம்
+sender_stepper_title,அனுப்புநர்
+flinks_OPERATION_PENDING,"சிறிது நேரத்தில் செயல்பாடு நிலுவையில் உள்ளது, சில நிமிடங்கள் கழித்து முயற்சிக்கவும்."
+flinks_SUCCESS,உங்கள் கணக்கு வெற்றிகரமாக இணைக்கப்பட்டது
+flinks_integration_error,உங்கள் வங்கிக் கணக்குடன் எங்களால் இணைக்க முடியவில்லை. சில நிமிடங்களில் மீண்டும் முயற்சிக்கவும்.
+flinks_integration_progress,உங்கள் கணக்கை இணைக்க 3 நிமிடம் வரை ஆகலாம். இந்த பகுதியை & வலையத்தளதை மூட வேண்டாம்.
+amount_stepper_title,தொகை
+amount_title,வைப்புத் தொகையை உள்ளிடவும்
+amount_sub-title,உங்கள் ரெமிட்பீ வாலிட்டில் நீங்கள் டெப்போசிட் செய்ய விரும்பும் தொகையை உள்ளிடவும்.
+amount_you_depositing,நீங்கள் டெப்போசிட் செய்கிறீர்கள்
+amount_min_sending_amount,குறைந்தபட்சம் அனுப்பும் தொகை $ 10 CAD

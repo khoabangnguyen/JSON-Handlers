@@ -1,0 +1,31 @@
+﻿bill_payment_title,பில் கட்டண வழிமுறைகள்
+bill_payment_sub_title,"படிகள் & அடுது வங்கியில் இருந்து வங்கிக்கு மாறுபடலாம், ஆனால் பொதுவாக இது ஒரு ஒத்த செயல். உங்கள் வங்கி வலைத்தளத்திலும் ஒரு வழிமுறைகளைக் காணலாம். தயவுசெய்து, இந்த படிகளைப் பின்பற்றவும்."
+bill_payment_steps_step_1,உங்கள் ஆன்லைன் வங்கியில் உள்நுழைந்து பில் செலுத்தும் பிரிவுக்குச் செல்லவும்
+bill_payment_steps_step_2,"""பணம் செலுத்துபவரைச் சேர்"" என்பதைத் தேர்ந்தெடுக்கவும்"
+bill_payment_steps_step_3,தேடல் புலத்தில் ரெமிட்பீ (Remitbee) என தட்டச்சு செய்து அதைத் தேர்ந்தெடுக்கவும்.
+bill_payment_steps_step_4,உங்கள் கணக்கு எண்ணை உள்ளிடவும் - உங்கள் ரெமிட்பீ கணக்கு எண்.
+bill_payment_steps_step_5,தேர்ந்தெடுக்கவும் சரிபார்க்கவும் & செலுதவும்
+bill_payment_steps_step_6,"அடுத்து, உங்கள் பரிமாற்றத்தின் அளவை உள்ளிட்டு அனைத்து பரிமாற்ற விவரங்களையும் மதிப்பாய்வு & சரி செய்யவும்."
+bill_payment_steps_step_7,உங்கள் கட்டணத்தை முடிக்க சர்மிட் என்பதைக் கிளிக் செய்க.
+bill_payment_funding_time,உங்கள் பணப்பையில் & வாலிட்லில் நிதியை டெபாசிட் செய்ய 1 வணிக நாள் வரை எங்களை அனுமதிக்கவும்.
+bill_payment_remitbee_account_number,ரெமிட்பீ கணக்கு எண்
+bill_payment_amount_to_send,அனுப்ப வேண்டிய தொகை
+bill_payment_note,"நீங்கள் எல்லாம் தயாராகிவிட்டீர்கள்! உங்கள் வங்கியில் பில் செலுத்துபவராக ரெமிட்பீயைச் சேர்த்தவுடன், எதிர்காலத்தில் இந்த கட்டண முறையை எளிதாகப் பயன்படுத்தலாம்."
+bill_payment_have_questions,கேள்விகள் உள்ளதா? எங்கள் சரிபார்க்கவும்
+bill_payment_account_number,
+bill_payment_bill_payment_tutorial,பில் கட்டணம் பயிற்சி
+bill_payment_amount,பனம் கனடா $ டாலரில் CAD
+interac_e_transfer_title,மின் அஞ்சலில் எப்படி அனுப்புவது என்று சுலபமாக விளக்கப்பட்டுள்ளது. கவனமாக படிக்கவும்!
+interac_e_transfer_steps_step_1,காலை 10 மணி முதல் இரவு 7 மணி வரை செய்யப்படும் இ-பரிமாற்றங்கள் ஒரே நாளில் வரவு வைக்கப்படும்.
+interac_e_transfer_steps_step_2,உங்கள் ஆன்லைன் வங்கியில் உள்நுழைந்து கீழே காட்டப்பட்டுள்ள தரவைப் பயன்படுத்தி புதிய ஊடாடும் இ-பரிமாற்றத்தை அனுப்பவும்.
+interac_e_transfer_remitbee,ரெமிட்பீ
+interac_e_transfer_recipient_name,பெறுநரின் பெயர்
+interac_e_transfer_recipient_email,பனப்பை & வாலிட்@ரெமிட்பீ.காம் ( wallet@remitbee.com )
+interac_e_transfer_recipient_email_address,பெறுநரின் மின்னஞ்சல் முகவரி
+interac_e_transfer_what_is_my_user_id,எனது பயனர் & யுசர் ஐடி என்ன?
+interac_e_transfer_security_question,பாதுகாப்பு கேள்வி
+interac_e_transfer_security_answer,பாதுகாப்பு பதில்
+interac_e_transfer_message_to_recipient,பெறுநருக்கு செய்தி (உங்கள் மின்னஞ்சல் முகவரி)
+notify_steps_notify,உங்கள் பணப்பையில் & வாலிட் பணம் ஏற்றப்படும்போது மின்னஞ்சல் மூலம் உங்களுக்கு அறிவிப்போம்.
+notify_steps_note,குறிப்பு: உங்கள் பணப்பையில் & வாலிட் நிதி வரவு வைக்க 24 மணிநேரம் ஆகலாம்.
+continue_button_title,வழிமுறைகளுடன் எனக்கு மின்னஞ்சல் அனுப்புங்கள்

@@ -1,0 +1,71 @@
+{
+    "\ufeffdeposit_method": {
+        "stepper_title": "Deposit Method"
+    },
+    "deposit_method": {
+        "title": "",
+        "sub-title": "",
+        "eft": "Direct Withdrawal (EFT)",
+        "interac_e_transfer": "E-Transfer",
+        "bill_payment": "Bill payment",
+        "tranfer_speed": "1-2 business days"
+    },
+    "bank_details": {
+        "stepper_title": "Bank Details",
+        "title": "Choose the deposit method",
+        "sub-title": "Select a type of payment you want to use for funding Remitbee Wallet. Note, that all these payment methods are",
+        "fee_text": "fee free!",
+        "transfer_speed": "Transfer speed",
+        "1 hour": "1 hour",
+        "select_other_payment_method": "Select other payment method",
+        "failed_interac_payment": "Sorry! We were not able to process your payment. Please, try again or select a different payment method.",
+        "payment_option_unavailable": "Will be available soon",
+        "enter_your_bank_info": "Enter your bank information",
+        "bank_institution_number": "Bank institution number",
+        "transit_number": "Transit number",
+        "account_number": "\u0db6\u0dd0\u0d82\u0d9a\u0dd4 \u0d9c\u0dd2\u0dab\u0dd4\u0db8\u0dca \u0d85\u0d82\u0d9a\u0dba",
+        "confirm_your_identity": "Confirm your identity",
+        "confirm_your_identity_message": "Please, take a selfie with your ID using your web camera. If your device doesn't have a web camera, you can complete this step from your phone or tablet. Make sure that all the information, and your face are visible, and photo has a good quality.",
+        "take_selfie_with_id": "Take selfie with ID",
+        "institution_number_3_digits": "Institution number must have 3 digits",
+        "selfie_instructions": "Please, do a selfie with your ID. Make sure that your ID is beside your face and all the information is clearly readable",
+        "eft_info_tooltip": "You can find this information on your cheque book or on your online bank portal",
+        "institution_no_validation_msg": "The institution number must have 3 digits",
+        "transit_no_validation_msg": "The transit number must have 5 digits",
+        "link_your_bank_account": "Link your bank account"
+    },
+    "overview": {
+        "stepper_title": "Overview",
+        "deposit_overview": "Wallet deposit overview",
+        "deposit_summary": "Deposit summary",
+        "deposit_amount": "Deposit amount",
+        "deposit_method": "Deposit method",
+        "eft": "Direct Withdrawal (EFT)",
+        "interac_e_transfer": "E-Transfer",
+        "bill_payment": "Bill payment",
+        "fees": "\u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4",
+        "bank_name": "Bank name",
+        "transit_number": "Transit method",
+        "account_number": "\u0db6\u0dd0\u0d82\u0d9a\u0dd4 \u0d9c\u0dd2\u0dab\u0dd4\u0db8\u0dca \u0d85\u0d82\u0d9a\u0dba",
+        "confirm_send": "Confirm and send",
+        "estimated_deposit_date": "Estimated deposit date",
+        "your_total": "\u0d94\u0db6\u0dda \u0d91\u0d9a\u0dad\u0dd4\u0dc0",
+        "free": "Free"
+    },
+    "sender": {
+        "stepper_title": "Sender"
+    },
+    "flinks": {
+        "OPERATION_PENDING": "The opration is pending in a while, try few minutes later.",
+        "SUCCESS": "Your account was successfully linked",
+        "integration_error": "We were not able to connect with your bank account. Please try again in a few minutes.",
+        "integration_progress": "To link your account can take up to 3 min. Please do not close the window."
+    },
+    "amount": {
+        "stepper_title": "\u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0db1\u0dba",
+        "title": "Enter the deposit amount",
+        "sub-title": "Enter the amount you want to deposit in your Remitbee Wallet.",
+        "you_depositing": "You depositing",
+        "min_sending_amount": "Minimum sending amount is 10 CAD"
+    }
+}

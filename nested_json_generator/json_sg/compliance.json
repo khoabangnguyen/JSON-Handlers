@@ -1,0 +1,183 @@
+{
+    "\ufeffcommon": {
+        "verified": "Verified"
+    },
+    "common": {
+        "upload_document": "Upload document",
+        "upload_your_document": "Upload your document",
+        "upload_your_document_message": "Please upload your document in the PDF format.",
+        "continue": "\u0daf\u0dd2\u0d9c\u0da7\u0db8 \u0d9a\u0dbb\u0d9c\u0dd9\u0db1 \u0dba\u0db1\u0dca\u0db1",
+        "completed": "Completed",
+        "pending_verification": "\u0dc3\u0dad\u0dca\u200d\u0dba\u0dcf\u0db4\u0db1\u0dba \u0d85\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0dd2\u0dad\u0dba",
+        "drag_and_drop": "Upload \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0d87\u0daf\u0d9c\u0dd9\u0db1 \u0dba\u0db1\u0dca\u0db1",
+        "or": "or",
+        "browse": "browse",
+        "to_choose_file": "to choose a file.",
+        "start": "Start"
+    },
+    "document_types": {
+        "bank_statement": "Bank Statement",
+        "loan_statement": "Loan Statement",
+        "credit_card_statement": "Credit Card Statement",
+        "utility_bill": "Utility Bill",
+        "driver_license": "Driver License",
+        "passport": "Passport",
+        "national_id": "National Id",
+        "pr_card": "Permanent Resident Card"
+    },
+    "level": {
+        "level1_title": "1 \u0dc0\u0db1 \u0db8\u0da7\u0dca\u0da7\u0db8\u0dda \u0dc3\u0dad\u0dca\u200d\u0dba\u0dcf\u0db4\u0db1\u0dba",
+        "level1_message": "Please complete all required steps. This level of verification allows you to send up to {{daily_limit}} CAD daily or {{monthly_limit}} CAD monthly.",
+        "level2_title": "2 \u0dc0\u0db1 \u0db8\u0da7\u0dca\u0da7\u0db8\u0dda \u0dc3\u0dad\u0dca\u200d\u0dba\u0dcf\u0db4\u0db1\u0dba",
+        "level2_message": "Please complete all required steps. This level of verification allows you to send up to {{daily_limit}} CAD daily or {{monthly_limit}} CAD monthly.",
+        "level3_title": "3 \u0dc0\u0db1 \u0db8\u0da7\u0dca\u0da7\u0db8\u0dda \u0dc3\u0dad\u0dca\u200d\u0dba\u0dcf\u0db4\u0db1\u0dba",
+        "level3_message": "This level of verification allows you to send up to {{daily_limit}} CAD daily or {{monthly_limit}} CAD monthly.",
+        "level4_title": "4 \u0dc0\u0db1 \u0db8\u0da7\u0dca\u0da7\u0db8\u0dda \u0dc3\u0dad\u0dca\u200d\u0dba\u0dcf\u0db4\u0db1\u0dba",
+        "level4_message": "Please complete all required steps. This level of verification allows you to send up to {{daily_limit}} CAD daily or {{monthly_limit}} CAD monthly.",
+        "go_to_main_menu": "\u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 menu \u0dc0\u0da7 \u0dba\u0db1\u0dca\u0db1",
+        "send_money": "\u0db8\u0dd4\u0daf\u0dbd\u0dca \u0dba\u0dc0\u0db1\u0dca\u0db1",
+        "go_next_level": "Go to level {{level}} verification"
+    },
+    "levels": {
+        "verification_limits": "\u0dc3\u0dad\u0dca\u200d\u0dba\u0dcf\u0db4\u0db1\u0dba \u0dc3\u0dc4 \u0dc3\u0dd3\u0db8\u0dcf\u0dc0\u0db1\u0dca",
+        "highest_level_security": "\u0d89\u0dc4\u0dc5\u0db8 \u0db8\u0da7\u0dca\u0da7\u0db8\u0dda \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dcf\u0dc0 \u0dc3\u0dd0\u0db4\u0dba\u0dd3\u0db8 \u0dc3\u0dc4 \u0d94\u0db6\u0dda \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0dc3\u0dc4 \u0daf\u0dad\u0dca\u0dad \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dd2\u0dad \u0db6\u0dc0 \u0dc3\u0dc4\u0dad\u0dd2\u0d9a \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf, \u0d85\u0db4\u0da7 \u0d94\u0db6\u0d9c\u0dda \u0d9c\u0dd2\u0dab\u0dd4\u0db8\u0dca \u0dc3\u0dad\u0dca\u200d\u0dba\u0dcf\u0db4\u0db1\u0dba \u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba \u0dc0\u0dda.",
+        "you_almost_there": "\u0d94\u0db6 \u0db6\u0ddc\u0dc4\u0ddd \u0daf\u0dd4\u0dbb\u0da7 \u0d91\u0dc4\u0dd2 \u0dc3\u0dd2\u0da7\u0dd3",
+        "complete_verification_and_transaction_will_release": "Complete the verification for Level {{level}} and your transaction will be completed automatically.",
+        "got_it": "\u0dad\u0dda\u0dbb\u0dd4\u0db8\u0dca \u0d9c\u0dad\u0dca\u0dad\u0dcf \u0daf",
+        "level": "Level",
+        "daily_limit": "Daily Limit",
+        "monthly_limit": "Monthly Limit",
+        "coming_soon": "Coming Soon",
+        "start": "Start"
+    },
+    "fields": {
+        "personal_info": {
+            "title": "Personal Information",
+            "message": "Please, provide us with you personal information, so we can verify your identity, and provide the highest level of your money and data security.",
+            "fill_personal_info": "Fill personal info",
+            "personal_info_dialog_title": "\u0d9a\u0dbb\u0dd4\u0dab\u0dcf\u0d9a\u0dbb, \u0d94\u0db6 \u0d9c\u0dd0\u0db1 \u0dc0\u0dd0\u0da9\u0dd2 \u0dc0\u0dd2\u0dc3\u0dca\u0dad\u0dbb \u0d85\u0db4\u0da7 \u0d9a\u0dd2\u0dba\u0db1\u0dca\u0db1",
+            "personal_info_dialog_subtitle": "",
+            "personal_info_dialog_section_personalinfo": "Your personal information",
+            "personal_info_dialog_section_address": "Your address",
+            "personal_info_dialog_section_occupation_industry": "\u0d94\u0db6\u0dda \u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf\u0dc0 \u0d9c\u0dd0\u0db1 \u0d85\u0db4\u0da7 \u0d9a\u0dd2\u0dba\u0db1\u0dca\u0db1",
+            "successfully_submitted": "Your personal information was successfully submitted",
+            "occupation": "\u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf\u0dc0",
+            "first_name": "\u0db8\u0dd4\u0dbd\u0dca \u0db1\u0db8",
+            "last_name": "\u0d85\u0dc0\u0dc3\u0db1\u0dca \u0db1\u0db8",
+            "date_of_birth": "\u0d8b\u0db4\u0db1\u0dca\u0daf\u0dd2\u0db1\u0dba",
+            "address": "Address",
+            "unit_number": "\u0d92\u0d9a\u0d9a \u0d85\u0d82\u0d9a\u0dba (\u0d85\u0dad\u0dca\u200d\u0dba\u0dc0\u0dc1\u0dca\u200d\u0dba \u0db1\u0ddc\u0dc0\u0dda)",
+            "province": "\u0db4\u0dc5\u0dcf\u0dad",
+            "city": "\u0db1\u0d9c\u0dbb\u0dba (City)",
+            "postal_code": "\u0dad\u0dd0\u0db4\u0dd0\u0dbd\u0dca \u0d9a\u0dda\u0dad\u0dba (Postal Code)",
+            "country": "\u0dbb\u0da7",
+            "postal_code_error": "Enter valid postal code",
+            "phone_number": "\u0daf\u0dd4\u0dbb\u0d9a\u0dad\u0db1 2"
+        },
+        "phone_verification": {
+            "title": "Phone number verification",
+            "message": "Please, provide us with you phone number, so we can verify it to provide the highest level of your money and data security",
+            "start_phone_number_verification": "Start phone number verification",
+            "successfully_verified_title": "Thank you for your verification",
+            "successfully_verified_message": "Your phone number was successfully verified."
+        },
+        "email_verification": {
+            "title": "Email verification",
+            "message": "Please verify your email address to activate your account.",
+            "re_send_email": "Re-send email",
+            "successfully_verified_title": "Email was sent",
+            "successfully_verified_message": "The verification email was successfully sent to your email address {{email}}",
+            "dialog_txt_label": "Please enter your email address",
+            "send_verification_email": "Send verification email"
+        },
+        "employment_verification": {
+            "title": "Employment information",
+            "message": "To ensure that you have a legal source of income, we need some extra information about your employment. All the information will be secured, and won't be shared with anyone.",
+            "re_send_email": "Re-send email",
+            "successfully_verified_title": "Thank you for submission!",
+            "successfully_verified_message": "Your information was successfully processed, and our support team will verify it during the next 24 hrs.",
+            "dialog_message": "Please, provide us with your employment information so we can ensure that your money are secure.",
+            "dialog_txt_label": "Please enter your email address",
+            "fill_information": "Fill information"
+        },
+        "document_verification": {
+            "address_proof": "Proof of Address",
+            "address_proof_message": "Please, upload one of your utility bills in PDF or digital screenshot format. We accept hydro, gas, water, internet or mobile phone bills. Make sure that your home address and personal information are present on the bill.",
+            "bank_proof": "\u0db6\u0dd0\u0d82\u0d9a\u0dd4 \u0d9c\u0dd2\u0dab\u0dd4\u0db8\u0dda \u0dc3\u0dcf\u0db0\u0db1\u0dba",
+            "bank_proof_message": "\u0d9a\u0dbb\u0dd4\u0dab\u0dcf\u0d9a\u0dbb, \u0d94\u0db6\u0d9c\u0dda \u0db6\u0dd0\u0d82\u0d9a\u0dd4 \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dc0\u0dbd\u0dd2\u0db1\u0dca \u0d91\u0d9a\u0d9a\u0dca PDF \u0dc4\u0ddd \u0da9\u0dd2\u0da2\u0dd2\u0da7\u0dbd\u0dca \u0dad\u0dd2\u0dbb \u0db4\u0dd2\u0da7\u0db4\u0dad\u0dca \u0d86\u0d9a\u0dcf\u0dbb\u0dba\u0dd9\u0db1\u0dca \u0d8b\u0da9\u0dd4\u0d9c\u0dad \u0d9a\u0dbb\u0db1\u0dca\u0db1. \u0d94\u0db6\u0dda \u0db1\u0dd2\u0dc0\u0dc3\u0dda \u0dbd\u0dd2\u0db4\u0dd2\u0db1\u0dba \u0dc3\u0dc4 \u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a \u0dad\u0ddc\u0dbb\u0dad\u0dd4\u0dbb\u0dd4 \u0db6\u0dd2\u0dbd\u0dca\u0db4\u0dad\u0dda \u0d87\u0dad\u0dd2 \u0db6\u0dc0\u0da7 \u0dc0\u0d9c \u0db6\u0dbd\u0dcf \u0d9c\u0db1\u0dca\u0db1.",
+            "birth_proof": "Proof of the birth date",
+            "birth_proof_message": "Please, upload the photo of the official document which contains your birth date. You can take a photo of a government-issued driver license, photo card, health card, PR card or passport. Make sure that all the information is visible and photo has a good quality.",
+            "tax_proof": "Tax information",
+            "tax_proof_message": "Please, upload a PDF copy of your T4 statement from the previous year.",
+            "tax_proof_dialog_title": "Upload tax information T4",
+            "tax_proof_dialog_message": "Please, upload a PDF copy of your T4 statement from the previous year.",
+            "id_proof": "\u0d94\u0db6\u0d9c\u0dda \u0dc4\u0dd0\u0db3\u0dd4\u0db1\u0dd4\u0db8\u0dca\u0db4\u0dad\u0dda \u0da1\u0dcf\u0dba\u0dcf\u0dbb\u0dd6\u0db4\u0dba",
+            "id_proof_message": "\u0d9a\u0dbb\u0dd4\u0dab\u0dcf\u0d9a\u0dbb, \u0d94\u0db6\u0dda \u0dc0\u0dd9\u0db6\u0dca \u0d9a\u0dd0\u0db8\u0dbb\u0dcf\u0dc0 \u0db7\u0dcf\u0dc0\u0dd2\u0dad\u0dcf \u0d9a\u0dbb \u0d94\u0db6\u0d9c\u0dda \u0dc4\u0dd0\u0db3\u0dd4\u0db1\u0dd4\u0db8\u0dca\u0db4\u0dad\u0dda \u0da1\u0dcf\u0dba\u0dcf\u0dbb\u0dd6\u0db4\u0dba\u0d9a\u0dca \u0d9c\u0db1\u0dca\u0db1. \u0d94\u0db6\u0d9c\u0dda \u0d8b\u0db4\u0dcf\u0d82\u0d9c\u0dba\u0da7 \u0dc0\u0dd9\u0db6\u0dca \u0d9a\u0dd0\u0db8\u0dbb\u0dcf\u0dc0\u0d9a\u0dca \u0db1\u0ddc\u0db8\u0dd0\u0dad\u0dd2 \u0db1\u0db8\u0dca, \u0d94\u0db6\u0da7 \u0d94\u0db6\u0d9c\u0dda \u0daf\u0dd4\u0dbb\u0d9a\u0dae\u0db1\u0dba\u0dd9\u0db1\u0dca \u0dc4\u0ddd \u0da7\u0dd0\u0db6\u0dca\u0dbd\u0da7\u0dba\u0dd9\u0db1\u0dca \u0db8\u0dd9\u0db8 \u0db4\u0dd2\u0dba\u0dc0\u0dbb \u0dc3\u0db8\u0dca\u0db4\u0dd6\u0dbb\u0dca\u0dab \u0d9a\u0dc5 \u0dc4\u0dd0\u0d9a\u0dd2\u0dba. \u0dc3\u0dd2\u0dba\u0dbd\u0dd4 \u0dad\u0ddc\u0dbb\u0dad\u0dd4\u0dbb\u0dd4 \u0daf\u0dd8\u0dc1\u0dca\u200d\u0dba\u0db8\u0dcf\u0db1 \u0dc0\u0db1 \u0db6\u0dc0\u0da7 \u0dc0\u0d9c \u0db6\u0dbd\u0dcf \u0d9c\u0db1\u0dca\u0db1, \u0da1\u0dcf\u0dba\u0dcf\u0dbb\u0dd6\u0db4\u0dba\u0da7 \u0dc4\u0ddc\u0db3 \u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba\u0d9a\u0dca \u0d85\u0dad\u0dca\u200d\u0dba\u0dc0\u0dc1\u0dca\u200d\u0dba\u0dba\u0dd2.",
+            "id_proof_dialog_message": "\u0d9a\u0dbb\u0dd4\u0dab\u0dcf\u0d9a\u0dbb \u0d94\u0db6\u0d9c\u0dda \u0dc4\u0dd0\u0db3\u0dd4\u0db1\u0dd4\u0db8\u0dca\u0db4\u0dad\u0dda \u0da1\u0dcf\u0dba\u0dcf\u0dbb\u0dd6\u0db4\u0dba \u0d85\u0db4\u0da7 \u0dbd\u0db6\u0dcf \u0daf\u0dd9\u0db1\u0dca\u0db1. \u0dc3\u0dd2\u0dba\u0dbd\u0dd4 \u0dad\u0ddc\u0dbb\u0dad\u0dd4\u0dbb\u0dd4 \u0db4\u0dd0\u0dc4\u0dd0\u0daf\u0dd2\u0dbd\u0dd2\u0dc0 \u0db4\u0dd9\u0db1\u0dd9\u0db1 \u0dc3\u0dc4 \u0d9a\u0dd2\u0dba\u0dc0\u0dd2\u0dba \u0dc4\u0dd0\u0d9a\u0dd2 \u0db6\u0dc0\u0da7 \u0dc0\u0d9c \u0db6\u0dbd\u0dcf \u0d9c\u0db1\u0dca\u0db1",
+            "selfie_id_proof": "Selfie with ID",
+            "selfie_id_proof_message": "Please, take a selfie with your ID using your web camera. If your device doesn't have a web camera, you can complete this step from your phone or tablet. Make sure that all the information, and your face are visible, and photo has a good quality.",
+            "selfie_id_proof_dialog_message": "Please, do a selfie with your ID. Make sure that your ID is beside your face and all information is clearly visible and readable.",
+            "select_type_document": "\u0d94\u0db6\u0da7 upload \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba \u0dbd\u0dda\u0d9b\u0db1\u0dba\u0d9a\u0dca \u0dad\u0ddd\u0dbb\u0db1\u0dca\u0db1",
+            "upload_utility_bill_title": "Upload utility bill",
+            "upload_utility_bill_message": "Please upload any of your utility bills in the PDF format.",
+            "upload_pay_stub_title": "Upload pay stub",
+            "upload_pay_stub_message": "Please upload any of your pay stubs in the PDF format.",
+            "upload_bank_statement_title": "Upload bank statement",
+            "upload_bank_statement_message": "Please provide us with a copy of your bank statement. You can take a picture of it or upload a file in PDF format.",
+            "upload_loan_statement_title": "Upload loan statement",
+            "upload_loan_statement_message": "Please provide us with a copy of your loan statement. You can take a picture of it or upload a file in PDF format.",
+            "upload_credit_card_statement_title": "\u0d9a\u0dca\u200d\u0dbb\u0dd9\u0da9\u0dd2\u0da7\u0dca \u0d9a\u0dcf\u0da9\u0dca \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba upload \u0d9a\u0dbb\u0db1\u0dca\u0db1",
+            "upload_credit_card_statement_message": "Please provide us with a copy of your credit card statement. You can take a picture of it or upload a file in PDF format.",
+            "upload_birth_cert_title": "Upload brith certificate",
+            "upload_birth_cert_message": "Please upload your birth certificate in the PDF format.",
+            "upload_marriage_cert_title": "Upload marriage certificate",
+            "upload_marriage_cert_message": "Please upload your marriage certificate in the PDF format.",
+            "upload_pr_card_title": "Upload permanent resident card",
+            "upload_pr_card_message": "Please upload your permanent resident card in the PDF format.",
+            "upload_driver_license_title": "Upload driver license",
+            "upload_driver_license_message": "Please upload your driver license in the PDF format.",
+            "upload_temp_driver_license_title": "Upload temporary driver license",
+            "upload_temp_driver_license_message": "Please upload your temporary driver license in the PDF format.",
+            "upload_travel_visa_title": "Upload travel visa",
+            "upload_travel_visa_message": "Please upload your travel visa in the PDF format.",
+            "upload_passport_title": "Upload passport",
+            "upload_passport_message": "Please upload your passport in the PDF format.",
+            "upload_citizenship_cert_title": "Upload citizenship certificate",
+            "upload_citizenship_cert_message": "Please upload your citizenship certificate in the PDF format.",
+            "successfully_uploaded": "\u0d94\u0db6\u0d9c\u0dda \u0dbd\u0dda\u0d9b\u0db1\u0dba \u0dc3\u0dcf\u0dbb\u0dca\u0dae\u0d9a\u0dc0 upload \u0d9a\u0dbb\u0db1 \u0dbd\u0daf\u0dd2. \u0d91\u0dba \u0dc3\u0db8\u0dcf\u0dbd\u0ddd\u0da0\u0db1\u0dba \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0dc3\u0dc4 \u0d85\u0db1\u0dd4\u0db8\u0dad \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0d85\u0db4\u0d9c\u0dda \u0dc3\u0dc4\u0dcf\u0dba\u0d9a \u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8\u0da7 \u0db4\u0dd0\u0dba 24 \u0d9a\u0dca \u0d9c\u0dad\u0dc0\u0db1\u0dd4 \u0d87\u0dad. \u0d91\u0dba \u0dc3\u0dd0\u0d9a\u0dc3\u0dd6 \u0db4\u0dc3\u0dd4 \u0d85\u0db4\u0dd2 \u0d94\u0db6\u0da7 \u0daf\u0db1\u0dca\u0dc0\u0db1\u0dca\u0db1\u0dd9\u0db8\u0dd4"
+        },
+        "pin_to_address": {
+            "title": "Security code to address",
+            "message": "To verify your real residential address, we will send a letter with the special PIN code to the address outlined on your ID. It may take up to 4 days before it will be delivered.",
+            "sub_message": "As soon as you'll get the PIN code, enter it in the field that will appear after you send the request.",
+            "pending_message": "We have sent you a mail with a security code to your address on file. You should receive it within {{countDownValue}}. Once you receive it, please submit the code below.",
+            "pending_message_time_expired": "We have sent you a mail with a security code to your address on file. Once you receive it, please submit the code below.",
+            "send_request": "Send request",
+            "request_received": "Your request was received!",
+            "letter_was_sent": "We send a letter with a 6 digit PIN to your address:",
+            "once_letter_received": "As soon as you get it, please enter the PIN using the link on your dashboard or through the Level 3 verification.",
+            "pin_verified_title": "Thank you for your verification",
+            "pin_verified_message": "You pin was successfully verified.",
+            "pin_code_txt_label": "Enter the security code",
+            "submit_code": "Submit code",
+            "invalid_pin": "Invalid PIN"
+        }
+    },
+    "groups": {
+        "personality_verification": {
+            "title": "Personality verification",
+            "message": "To complete a level 3 verification, and increase your sending limits we'll need to get some extra information from you. All the data and photos will be secured, and won't be shared with any other third party companies.",
+            "time": "May take up to 96 hours"
+        },
+        "employment_verification": {
+            "title": "Employment verification",
+            "message": "To complete a level 3 verification, and increase your sending limits we'll need to get some extra information from you. All the data and photos will be secured, and won't be shared with any other third party companies.",
+            "time": "May take up to 48 hours"
+        },
+        "videocall_verification": {
+            "title": "Verify your ID via video call verification",
+            "message": "You can complete your level 3 verification through an online video call with one of our support agents. This call may take up to 10 minutes, and will require your access to the internet and camera. Also, make sure that you have your ID ready for the verification.",
+            "time": "Instant verification"
+        }
+    }
+}

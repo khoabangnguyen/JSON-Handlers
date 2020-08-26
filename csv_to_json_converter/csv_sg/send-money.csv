@@ -1,0 +1,149 @@
+﻿dialog.success_title,Your transaction was successfull
+dialog.success_message,Thank you for sending money with us. Your funds should arrive in {{funding_time}}. We'll send you notifications about transaction status and updates.
+dialog.failed_title,Your transaction was not completed
+dialog.failed_message,Please reach one of our customer service channels for more details.
+dialog.got_it,Got it
+dialog.picture_required,A picture must be taken
+dialog.converter_rate,Exchange rate:
+dialog.debit_limit_3000,"This payment option is available for up to $3,000.00 CAD"
+transfer_summary.title,මාරු සාරාංශය
+transfer_summary.bank_deposit,Bank deposit
+transfer_summary.delivery,Delivery
+transfer_summary.pickup,Pick up
+transfer_summary.send_amount,මුදල යවන්න
+transfer_summary.exchange_rate,විනිමය අනුපාතය
+transfer_summary.fees,ගාස්තු
+transfer_summary.apply,Apply
+transfer_summary.recipient_gets,ලබන්නා ලබා ගනී
+transfer_summary.receiving_method,ලැබීමේ ක්‍රමය
+transfer_summary.reward_dollars,Reward dollars
+transfer_summary.subtotal,Subtotal
+transfer_summary.your_total,ඔබේ එකතුව
+transfer_summary.remove_rewards,Remove rewards
+transfer_summary.apply_rewards_dollars,Rewards ඩොලර් යොදන්න
+transfer_summary.rewards_remaining,Rewards ඉතිරිව ඇත: {{totalRewardsAmount}} CAD
+transfer_summary.not_enough,Not enough balance
+transfer_summary.above_zero,Please enter an amount above 0
+transfer_summary.invalid_amount,Invalid rewards amount
+transfer_summary.free,Free
+transfer_summary.max_rewards_allowed,You can only use up to {{maxRewardsAllowed}} CAD.
+recipient.stepper_title,ලබන්නා
+recipient.select_your_recipient,ඔබේ ලබන්නා තෝරන්න
+recipient.enter_recipient_details,ලබන්නන්ගේ විස්තර ඇතුළත් කරන්න
+recipient.create_new_receiving_method,Create new receiving method
+transfer_speed.title,Please select the speed of your transfer
+transfer_speed.sub-title,"Because of COVID-19 lockdowns, all money transfer companies facing huge delays and services disruptions. To prevent delays and deliver money to your loved ones as soon as possible, we launched “Instant Transfer”. During these difficult times, our priority is to deliver money as fast and secure as possible, no matter what."
+transfer_speed.warning-message,This delivery method available
+transfer_speed.warning-message-only-banks,only for bank deposits
+transfer_speed.speed.instant,Instant
+transfer_speed.speed.instant_speed_time,(1 business day)
+transfer_speed.speed.regular,Regular
+transfer_speed.speed.regular_speed_time,(1-5 business day)
+transfer_speed.speed.hour,{{value}} hour
+transfer_speed.speed.business_day,{{value}} business day
+transfer_details.stepper_title,Transfer details
+transfer_details.how_much_would_you_like_tosend,ඔබ කොපමණ ප්‍රමාණයක් යැවීමට කැමතිද?
+transfer_details.transfer_purpose,ඔබගේ මුදල් යැවීම අරමුණ කුමක්ද?
+transfer_details.select_purpose,අරමුණ තෝරන්න
+transfer_details.choose_country_want_to_send_money,ඔබට මුදල් යැවීමට අවශ්‍ය රට තෝරන්න.
+transfer_details.max_month_sending_limit,You have reached your maximum monthly sending limit.
+transfer_details.max_day_sending_limit,You have reached your maximum daily sending limit.
+transfer_details.day_limit_available,Your daily sending limit available is {{dailyLimit}} CAD.
+transfer_details.month_limit_available,Your monthly sending limit available is {{monthlyLimit}} CAD.
+transfer_details.max_cash_pickup,Max recieving amount for the selected agent is {{receiving_amount_limit}} {{currencyCode}}. Please select different agent or change receiving method
+transfer_details.max_day_limit_available,The maximum daily amount that you can send is {{maxDailyLimit}} CAD
+transfer_details.max_month_limit_available,The maximum monthly amount that you can send is {{maxMonthlyLimit}} CAD
+transfer_details.sending_amount_requires,මෙම මුදල් යැවීමට පළවෙනි මට්ටම සත්‍යාපනය අවශ්‍ය වේ
+transfer_details.min_sending_amount,Minimum sending amount is 10 CAD
+transfer_details.select_other_receiving_method,Select other receiving method
+transfer_details.choose_receiving_method,ලැබීමේ ක්‍රමය තෝරන්න
+transfer_details.amount_requires_level_upgrade,This send amount requires
+transfer_details.level_n_verification,level {{level}} verification
+transfer_details.you_send,You send
+transfer_details.they_receive,They receive
+payment.stepper_title,Payment
+payment.select_payment_option,ගෙවීම් විකල්ප වලින් එකක් තෝරන්න
+payment.wallet_payment,Wallet ගෙවී
+payment.card_payment,කාඩ්පත් ගෙවීම
+payment.choose_your_bank,Choose your bank
+payment.transfer_speed,Transfer speed
+payment.pay_with_your_card,Pay with your debit card
+payment.name_on_the_card,Name on the card
+payment.card_number,Card number
+payment.expiry_date,Expiry date
+payment.security_code,Security code
+payment.select_other_payment_method,Select other payment method
+payment.not_able_to_validate_card,"Sorry! We were not able to validate your card. Please, double check the numbers you entered or select a different payment method."
+payment.failed_interac_payment,"Sorry! We were not able to process your payment. Please, try again or select a different payment method."
+payment.card_number_length_error_msg,Card number must have 16 digits
+payment.expiry_date_length_error_msg,Expiry date must have 4 digits
+payment.security_code_length_error_msg,Security code must have 3 digits
+payment.payment_option_unavailable,Will be available soon
+payment.payment_option_on_app,Coming soon to web. Use the app
+payment.available_balance,Available balance: {{balance}} CAD
+payment.pay_with_wallet,Pay with wallet balance
+payment.enter_your_bank_info,Enter your bank information
+payment.bank_institution_number,Bank institution number
+payment.transit_number,Transit number
+payment.account_number,බැංකු ගිණුම් අංකය
+payment.confirm_your_identity,Confirm your identity
+payment.confirm_your_identity_message,"Please, take a selfie with your ID using your web camera. If your device doesn't have a web camera, you can complete this step from your phone or tablet. Make sure that all the information, and your face are visible, and photo has a good quality."
+payment.take_selfie_with_id,Take selfie with ID
+payment.institution_number_3_digits,Institution number must have 3 digits
+payment.selfie_instructions,"Please, do a selfie with your ID. Make sure that your ID is beside your face and all the information is clearly readable"
+payment.eft_info_tooltip,You can find this information on your cheque book or on your online bank portal
+payment.institution_no_validation_msg,The institution number must have 3 digits
+payment.transit_no_validation_msg,The transit number must have 5 digits
+payment.link_your_bank_account,Link your bank account
+eft_selection_list.select_bank_account,Select bank account
+eft_selection_list.add_new_bank_account,Add new bank account +
+review.stepper_title,සමාලෝචනය
+review.transfer_overview,දළ විශ්ලේෂණය
+review.confirm_send,Confirm and send
+review.you_sending_to,You're sending to
+review.you_paying_with,You're paying with
+review.debit,Debit card
+review.interac,Interac
+review.eft,Direct Withdrawal (EFT)
+review.interac_e_transfer,E-Transfer
+review.current_balance,Wallet balance
+review.bill_payment,Bill payment
+review.payment_method,ගෙවීමේ ක්‍රමය
+review.card_information,Card information
+review.billing_address,Billing address
+review.bank_code,Bank code
+review.code,code
+review.account_number,Account number
+review.address,Address
+review.location,Location
+review.name,නම
+review.phone_number,දුරකතන
+review.bank,බැංකුව
+review.money_debited,Money debited
+review.remaining_balance,Remaining balance
+review.payment_amount,Payment amount
+review.transit_no,Transit number
+review.account_no,බැංකු ගිණුම් අංකය
+sender.stepper_title,Sender
+flinks.OPERATION_PENDING,"The opration is pending in a while, try few minutes later."
+flinks.SUCCESS,Your account was successfully linked
+flinks.integration_error,We were not able to connect with your bank account. Please try again in a few minutes.
+flinks.integration_progress,To link your account can take up to 3 min. Please do not close the window.
+transfer_purposes.family_expense,Family Expense
+transfer_purposes.life_expense,Life Expense
+transfer_purposes.gift_expense,Gift Expense
+transfer_purposes.sponsoring,Sponsoring
+transfer_purposes.travel_expense,Travel Expense
+transfer_purposes.business_expense,Business Expense
+transfer_purposes.purchasing_business_equipment,Purchasing Business Equipment
+transfer_purposes.investment,Investment
+transfer_purposes.providing_a_loan,Providing a Loan
+transfer_purposes.repaying_a_loan,Repaying a Loan
+transfer_purposes.education_expense,Education Expense
+transfer_purposes.medical_expense,Medical Expense
+transfer_purposes.paying_bills,Paying Bills
+payment_types.e-transfer,E-Transfer
+payment_types.bill_payment,Bill Payment
+payment_types.direct_withdrawal_(eft),Direct Withdrawal (EFT)
+payment_types.debit,Debit
+payment_types.interac,Interac

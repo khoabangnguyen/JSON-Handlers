@@ -1,0 +1,54 @@
+﻿2_step_verification,2-படி சரிபார்ப்பு
+2_step_is_active,"2-படி சரிபார்ப்பு செயலில் உள்ளது. இப்போது, ஒவ்வொரு முறையும் நீங்கள் ஒரு புதிய சாதனத்தில் உள்நுழையும்போது, உங்கள் தொலைபேசியில் அனுப்பப்படவிருக்கும் சரிபார்ப்புக் குறியீட்டை உள்ளிட வேண்டும்."
+recent_account_activity,சமீபத்தில் உங்கள் கணக்கு செயல்பாடு
+action,செயல்
+activate,செயல்படுத்த
+activate_a_2_step_verification_text1,உங்கள் கணக்கின் பாதுகாப்பை அதிகரிக்க 2-படி சரிபார்ப்பைச் செயல்படுத்தவும்.
+activate_a_2_step_verification_text2,"இது செயல்படுத்தப்பட்டதும், ஒவ்வொரு முறையும் புதிய சாதனத்தில் உள்நுழையும்போது உங்கள் தொலைபேசியில் 6 இலக்க பாதுகாப்பு குறியீட்டைப் பெறுவீர்கள்."
+change_password,கடவுச்சொல்லை மாற்று
+confirm_new_password,புதிய கடவு சொல்லை உறுதி செய்
+current_password,தற்போதைய கடவுச்சொல்
+date,தேதி
+disable,முடக்கு
+email,மின்னஞ்சல்
+enable,இயக்கு
+enter_current_password,உங்கள் தற்போதைய கடவுச்சொல்லை உள்ளிடவும்
+ip_address,ஐபி ( IP ) முகவரி
+location,இடம்
+new_password,புதிய கடவுச்சொல்
+notifications,அறிவிப்புகள்
+notification_preferences,அறிவிப்பு விருப்பத்தேர்வுகள்
+password_updated,கடவுச்சொல் வெற்றிகரமாக புதுப்பிக்கப்பட்டது.
+payment_preferences,கட்டண விருப்பத்தேர்வுகள்
+phone_verification_required,இந்த அம்சத்தைப் பயன்படுத்த சரிபார்க்கப்பட்ட தொலைபேசி எண் தேவை. உங்கள் எண்ணை சரிபார்க்கவும்
+rate_us,எங்களை மதிப்பிடு
+save_updates,புதுப்பிப்புகளைச் சேமிக்கவும்
+security,பாதுகாப்பு
+security_preference_updated,பாதுகாப்பு விருப்பம் புதுப்பிக்கப்பட்டது.
+sending_limits,அனுப்பும் அளவு & வரம்புகளை அனுப்புகிறது
+settings,அமைப்புகள்
+setup_new_password,புதிய கடவுச்சொல்லை அமைக்கவும்
+sms,எஸ்.எம்.எஸ் & மெசேச் & குறுந்தகவல்
+time,நேரம்
+change,மாற்றம்
+bank_selection,உங்கள் வங்கி தேர்வு
+click_here_to_select_bank,உங்களுக்கு விருப்பமான வங்கியைத் தேர்ந்தெடுக்க இங்கே கிளிக் செய்க
+notificationPreferences_referrals_updates,பரிந்துரைகள் செய்திகள்
+notificationPreferences_be_the_first_who_gets_promocodes,"விளம்பர குறியீடுகள், தள்ளுபடிகள் மற்றும் புதிய செய்திகளைப் பெறும் முதல் நபராக இருங்கள்."
+notificationPreferences_marketing_updates,சந்தைப்படுத்தல் புதுப்பிப்புகள்
+notificationPreferences_youll_get_a_notifications_about_all_transactions,உங்கள் ரெமிட்பீ வாலிட்டில் அனைத்து பரிவர்த்தனைகள் பற்றிய அறிவிப்புகளைப் பெறுவீர்கள்
+notificationPreferences_wallet_updates,வாலிட் புதுப்பியுகள்
+notificationPreferences_youll_get_a_notifications_about_your_money_transfer_status,உங்கள் பணப் பரிமாற்ற நிலை குறித்த அறிவிப்புகளைப் பெறுவீர்கள்
+notificationPreferences_transfer_updates,புதுப்பிப்புகளை மாற்றவும்
+notificationPreferences_get_the_latest_updates_about_your_path_towards_50,50& ஐ நோக்கி உங்கள் பாதை குறித்த சமீபத்திய புதுப்பிப்புகளைப் பெறுங்கள்.
+notificationPreferences_rates_updates,நாணய வீதத்தை மாற்றுங்கள்
+notificationPreferences_get_updated_on_currency_rate_changes,புதுப்பிக்கவும் கடசி நாணய வீதத்தை மாற்றுங்கள்
+notificationPreferences_preferences_successfully_updated,விருப்பத்தேர்வுகள் வெற்றிகரமாக புதுப்பிக்கப்பட்டன
+verify_phone,"தயவுசெய்து, 2-காரணி அங்கீகாரத்தை இயக்க உங்கள் தொலைபேசி எண்ணைச் சரிபார்க்கவும்."
+recovery_link_expired,உங்கள் திரும்ப்பெறும் இணைப்பு காலாவதியாகிவிட்டது.
+please,தயவு செய்து
+go_back_to_login,உள்நுழைய மீண்டும் செல்லவும்
+request_reset_password,உங்கள் கடவுச்சொல்லை திரும்பப்பெற கோரிக்கை வையுங்கள்.
+passwords_must_match,கடவுச்சொற்கள் பொருந்த வேண்டும்.
+new_password_required,புதிய கடவுச்சொல் தேவை
+password_8_digits_long,உங்கள் புதிய கடவுச்சொல் குறைந்தது 8 இலக்கங்கள் நீளமாக இருக்க வேண்டும்

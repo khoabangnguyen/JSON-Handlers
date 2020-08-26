@@ -1,0 +1,88 @@
+﻿account_number,බැංකු ගිණුම් අංකය
+add_new_recipient,නව ලබන්නා එක් කරන්න
+add_new,+Add new
+choose_country,Choose the country
+choose_receiving_method,Choose receiving method
+edit,Edit
+recipients_list,Recipients list
+recipient_details,Recipient details
+recipient_contact_information,ලබන්නාගේ සම්බන්ධතා තොරතුරු
+recipient_phone_number,ලබන්නාගේ දුරකථන අංකය
+recipient_address_information,Recipient address informations
+search,Search
+send_money,මුදල් යවන්න
+saved,Saved
+your_recipients,Your recipients
+payment_method_warning,Please note that an extra bank transfer fee of 10.00 CAD applies to all money transfers to this country.
+remove_priority_speed_message,"Great news! From the January 14th, 2020 Remitbee offers a priority speed for all regular transfers without any fees!"
+optional,optional
+contact_information_subtitle,මෙම ගනුදෙනුව පිළිබඳ යාවත්කාලීන කිරීම් ලබා දීමට කරුණාකර අපට සම්බන්ධතා තොරතුරු ලබා දෙන්න
+view_more,View more
+choose_your_country,Choose your country
+select_recipient,Select Recipient
+recipients_table.recipient,ලබන්නා
+recipients_table.last_sent_date,අවසන් වරට යවන ලදි:
+recipients_table.last_sent_amount,ප්‍රමානය
+recipients_table.details,Actions
+dialog_form.title,නව ලබන්නා එක් කරන්න
+dialog_form.recipient_info_title,Recipient details
+dialog_form.edit_title,Edit recipient details
+form.continue_button,දිගටම කරගෙන යන්න
+form.save_button,Save
+form.receiving_method_label,Choose the receiving method
+form.bank_deposit_radio,බැංකු ගිණුමට
+form.delivery_radio,මුදල් ගෙයින් ගෙට භාර දීම
+form.pickup_radio,මුදල් ලබා ගැනීම
+form.bank_deposit_details_label,ලබන්නාගේ බැංකු විස්තර
+form.bank_details.ben_bank_name_manual,Bank name
+form.bank_details.ben_bank_code_manual,Bank code
+form.bank_details.ben_bank_branch_code_manual,Branch code
+form.bank_details.ben_bank_account,බැංකු ගිණුම
+form.bank_details.ben_cnaps,Cnaps
+form.branch_labels.aba,ABA Routing Number (Direct Deposit)
+form.branch_labels.swift,SWIFT
+form.branch_labels.au-bsb,BSB
+form.branch_labels.iban,IBAN
+form.branch_labels.in-ifsc,IFSC
+form.branch_labels.sort,SORT
+form.branch_labels.branch,Branch
+form.location_name,Location name:
+form.ben_city,නගරය:
+form.province,පළාත:
+form.ben_province,පළාත
+form.branch_code,code
+form.phone,Phone
+form.ben_country,Country
+form.ben_address1,Address
+form.email_address,ලබන්නාගේ විද්‍යුත් තැපැල් ලිපිනය (අත්‍යවශ්‍ය නොවේ)
+form.ben_postal,තැපැල් කේතය
+form.update_button,Save
+form.company_name,Company name
+form.first_name,මුල් නම
+form.last_name,අවසන් නම
+form.save_recipient_changes,Save changes
+form.delete_recipient,Delete recipient
+form.cnaps,Cnaps
+receiving_methods.bank_deposit.bank_select.default_bank_option,ඔබේ බැංකුව තෝරන්න
+receiving_methods.bank_deposit.bank_select.default_branch_option,Choose your bank branch
+receiving_methods.agent.title,Choose the agent location
+receiving_methods.agent.province,පළාත
+receiving_methods.agent.city,නගරය
+receiving_methods.agent.location,Agent location
+receiving_methods.radio_list_title,Choose the receiving method
+receiving_methods.add_new_receiving_method_label,Add new
+receiving_methods.receiving_method_success_msg,Receiving method updated successfully
+receiving_methods.create_new_receiving_method,Create a new receiving method
+receiving_speed.regular,Regular
+receiving_speed.priority,Priority
+receiving_speed.choose_speed_time,Choose the receiving method speed time
+success.update_recipient,Recipient was successfully updated.
+success.delete_recipient,Recipient was successfully deleted.
+errors.invalid_cnaps,Invalid cnaps
+errors.invalid_branch_code,Invalid branch code
+errors.deleting_recipient,"Error while deliting, try again."
+tooltip.edit_beneficiary.delete_payment_method,Delete payment method
+notification.one_city_available,This {{method}} method is available only for {{city}} area
+payment_methods.bank_deposit,Bank deposit
+payment_methods.delivery,Delivery
+payment_methods.pickup,Pickup

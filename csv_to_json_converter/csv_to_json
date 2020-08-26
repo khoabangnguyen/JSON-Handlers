@@ -1,0 +1,25 @@
+import csv
+import json
+import os
+
+# NOTE: This converter is obsolete as it's incapable of generating nested JSON files. Use nested_json_converter instead
+
+# For one CSV file at a time
+# reader = csv.reader(open('account-details.csv'))
+# my_dict = dict((rows[0], rows[1]) for rows in reader)
+#
+# json_object = json.dumps(my_dict, indent=4)
+# print(json_object)
+
+# For all files in folder
+directory = "C:/Users/user/PycharmProjects/csv_to_json_converter/csv_sg/"
+json_dir = "C:/Users/user/PycharmProjects/csv_to_json_converter/json_sg/"
+
+for filename in os.listdir(directory):
+    reader = csv.reader(open(directory+filename, encoding="utf8"))
+    my_dict = dict((rows[0], rows[1]) for rows in reader)
+    json_object = json.dumps(my_dict, indent=4)
+    json_file = filename[:-4] + ".json"
+    json_path = json_dir + json_file
+    with open(json_path, "w", encoding="utf-8-sig") as outfile:
+        outfile.write(json_object)

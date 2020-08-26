@@ -1,0 +1,42 @@
+{
+    "\ufeffdashboard": "\u0d8b\u0db4\u0d9a\u0dbb\u0dab \u0db4\u0dd4\u0dc0\u0dbb\u0dd4\u0dc0",
+    "last_sent": "Last sent",
+    "send_money": "\u0db8\u0dd4\u0daf\u0dbd\u0dca \u0dba\u0dc0\u0db1\u0dca\u0db1",
+    "your_recipients": "Your recipients",
+    "welcome_message": "\u0dbb\u0dd9\u0db8\u0dd2\u0da7\u0dca\u0db6\u0dd3 \u0dc0\u0dd9\u0dad \u0dc3\u0dcf\u0daf\u0dbb\u0dba\u0dd9\u0db1\u0dca \u0db4\u0dd2\u0dc5\u0dd2\u0d9c\u0db1\u0dd2\u0db8\u0dd4",
+    "sub_title_1": "\u0d85\u0daf\u0db8 \u0dc4\u0ddc\u0db3\u0db8 \u0d85\u0db1\u0dd4\u0db4\u0dcf\u0dad\u0dba \u0dc3\u0dc4 \u0d85\u0da9\u0dd4\u0db8 \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4 \u0dc3\u0db8\u0d9f \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0dba\u0dd0\u0dc0\u0dd3\u0db8 \u0d86\u0dbb\u0db8\u0dca\u0db7 \u0d9a\u0dbb\u0db1\u0dca\u0db1!",
+    "promo_cards": {
+        "covid": {
+            "primary": "COVID-19 Update",
+            "secondary": "Important information regarding our business hours and steps we are taking to protect the health of our customers and employees.",
+            "alt": "Remitbee Covid-19 Update",
+            "link": "Read more"
+        },
+        "refer": {
+            "primary": "Refer 3 friends and earn $51",
+            "secondary": "With our Referral program, there are no limits on how much you can earn! Receive $50 for every 3 people who make their first transfer.",
+            "alt": "Remitbee Refer & Earn icon",
+            "link": "Start inviting"
+        },
+        "mobile_apps": {
+            "primary": "Download new Remitbee App!",
+            "secondary": "Created for our customers on the go, Remitbee available for all IOS and Android devices!"
+        },
+        "fee_free": {
+            "primary": "Free transfers over $501",
+            "secondary": "Send over 500 CAD via the Remitbee Wallet option for fee-free transfers! Our fees are always as low as possible and are never hidden.",
+            "alt": "Remitbee Wallet Icon",
+            "link": "Go to wallet"
+        }
+    },
+    "mobile_app_dialog": {
+        "link_send_success": "A link wast sent to your phone.",
+        "link_request": "Send me SMS with the link",
+        "header": "The new Remitbee app is waiting for you",
+        "subtitle": "Created for our customers on demand, our mobile app has all the desktop functionalities available on your iOS or Android device!",
+        "link_will_be_sent": "A link for downloading the app will be sent to:",
+        "alt_subtitle": "Created for our customers on the go, our mobile app has all the functionality you expect from the website compacted into your iOS or Android device!",
+        "you_will_be_redirected": "You will be redirected to the",
+        "app_store_in_a_few": "App Store in a few seconds."
+    }
+}

@@ -1,0 +1,35 @@
+﻿bill_payment_title,வில் கட்டண வழிமுறைகள்
+bill_payment_card_title,வில் கட்டண வழிமுறைகள்
+bill_payment_sub_title,உங்கள் வங்கியில் இருந்து வில் செலுத்தும் விருப்பத்தைப் பயன்படுத்தி இப்போது உங்கள் பணப்பையை & வாலிட் ஏற்றலாம். இந்த வழிமுறைகளைப் பின்பற்றவும்:
+bill_payment_sub_title_2,கிரெடிட்டில் தாமதங்களைத் தவிர்க்க இந்த வழிமுறைகளை நீங்கள் கவனமாகப் பின்பற்றுவது முக்கியம்.
+bill_payment_account_number,
+bill_payment_add_payee,பணம் செலுத்துபவரைச் சேர்க்கவும்
+bill_payment_verify,சரிபார்க்கவும்
+bill_payment_pay_with,செலுத்துங்கள் வில் பேமன்
+bill_payment_steps_step_1,உங்கள் வங்கியில் உள்நுழைந்து வில் செலுத்தும் பிரிவுக்குச் செல்லவும்
+bill_payment_steps_step_2,"நீங்கள் ஏற்கனவே எங்களை சேர்த்திருந்தால், இலகுவாக தேர்ந்தெடுக்கலாம்"
+bill_payment_steps_step_2_1,கணக்கு எண் பயன்படுத்துவது
+bill_payment_steps_step_2_2,மற்றும் விரும்பிய தொகையுடன் தொடரவும்.
+bill_payment_steps_step_3,"முதல் முறையாக பயனர்கள், கிளிக் செய்க"
+bill_payment_steps_step_3_1,மற்றும் தேடுங்கள்
+bill_payment_steps_step_3_2,எங்களை சேர்க்கவும்.
+bill_payment_steps_step_4,உங்கள் கட்டண விவரங்கள் மற்றும் கட்டணத்தை சமர்ப்பிக்கவும்.
+bill_payment_steps_step_5,நீங்கள் வைப்பு & பனம் அனுப்புதல் என்பதைக் கிளிக் செய்க.
+bill_payment_steps_step_6,பணம் அனுப்ப தொடரவும்!
+interac_e_transfer_title,மின் அஞ்சலில் எப்படி அனுப்புவது என்று சுலபமாக விளக்கப்பட்டுள்ளது. கவனமாக படிக்கவும்!
+interac_e_transfer_card_title,உங்கள் வங்கியின் இணைய தளத்திற்கு செல்லுங்கள்
+interac_e_transfer_sub_title,"உங்கள் பணப்பையை 2000.00 $ CAD வரை உள்ளிட இ-பரிமாற்றத்துடன் ஏற்றலாம். தயவுசெய்து, இந்த வழிமுறைகளைப் பின்பற்றவும்:"
+interac_e_transfer_recipient_email,wallet@remitbee.com
+interac_e_transfer_security_question_sample,எனது பயனர் & யுசர் ஐடி என்ன?'
+interac_e_transfer_security_answer_sample,
+interac_e_transfer_pay_with,மின் அஞ்சலில் கட்டணம் செலுத்துவது (pay with e-transfer)
+interac_e_transfer_steps_step_1,உங்கள் சங்கேத வார்த்தையை (use your card number and password) பயன்படுத்தி உள்ளே செல்லுங்கள் (log in to your bank)
+interac_e_transfer_steps_step_2,உங்கள் பனம் பெறுநரை இவ்வாறு அமைக்கவும்
+interac_e_transfer_steps_step_3,பெறுநரின் பனம் மின்னஞ்சலை இவ்வாறு அமைக்கவும்
+interac_e_transfer_steps_step_4,"பெறுநருக்கு செய்தி' என்பதில், உங்கள் மின்னஞ்சலைத் தட்டச்சு & எலுதுக செய்க: {{customer_email}}"
+interac_e_transfer_steps_step_5,பாதுகாப்பு கேள்விகளை இவ்வாறு செய்யுங்கள்: {{security_question}}
+interac_e_transfer_steps_step_6,உங்கள் பாதுகாப்பு பதிலை இவ்வாறு செய்யுங்கள்: {{security_answer}}
+interac_e_transfer_steps_step_7,உங்கள் வங்கியின் இணைய தளத்திற்கு செல்லுங்கள் & உங்கள் ஆன்லைன் வங்கி மூலம் மின் பரிமாற்றத்தைத் தொடங்கவும்
+notify_steps_notify,உங்கள் வாலிட் பணம் ஏற்றப்படும்போது மின்னஞ்சல் மூலம் உங்களுக்கு அறிவிப்போம்.
+notify_steps_note,குறிப்பு: உங்கள் வாலிட் நிதி வரவு வைக்க 24 மணிநேரம் ஆகலாம்.
+continue_button_title,வழிமுறைகளுடன் எனக்கு மின்னஞ்சல் அனுப்புங்கள்

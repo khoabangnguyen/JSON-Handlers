@@ -1,0 +1,36 @@
+﻿bill_payment.title,Bill payment instructions
+bill_payment.card_title,Bill payment instructions
+bill_payment.sub_title,You can now load your wallet by using Bill payments option from your bank. Please follow these steps:
+bill_payment.sub_title_2,It is important you follow these steps carefully to avoid delays in Credit.
+bill_payment.account_number,1.42E+13
+bill_payment.add_payee,Add payee
+bill_payment.verify,Verify
+bill_payment.pay_with,Pay with Bill Payment
+bill_payment.steps.step_1,Login to your Bank and go to the Bill Payment Section
+bill_payment.steps.step_2,"If you have already added us, simply select"
+bill_payment.steps.step_2_1,", for account number use"
+bill_payment.steps.step_2_2,and proceed with the desired amount.
+bill_payment.steps.step_3,"First time users, click"
+bill_payment.steps.step_3_1,and search for
+bill_payment.steps.step_3_2,and add us.
+bill_payment.steps.step_4,your payment details and submit the payment.
+bill_payment.steps.step_5,Make sure you click deposit.
+bill_payment.steps.step_6,Proceed to send money!
+interac_e_transfer.title,E-Transfer instructions
+interac_e_transfer.card_title,ඔබේ මාර්ගගත බැංකුකරණය හරහා E-transfer ආරම්භ කරන්න
+interac_e_transfer.sub_title,"You can load your Wallet with Interact E-transfer for up to 2000.00 CAD. Please, follow these steps:"
+interac_e_transfer.recipient_email,wallet@remitbee.com
+interac_e_transfer.security_question_sample,What is my User ID?'
+interac_e_transfer.security_answer_sample,1.13221E+13
+interac_e_transfer.pay_with,E - transfer වෙතින් ගෙවන්න .
+interac_e_transfer.steps.step_1,ඔබගේ බැංකු ගිණුමට පිවිසෙන්න
+interac_e_transfer.steps.step_2,Set your recipient as
+interac_e_transfer.steps.step_3,Set the recipient email as
+interac_e_transfer.steps.step_4,"In 'Message to recipient', type your email: {{customer_email}}"
+interac_e_transfer.steps.step_5,Make you Security Questions as: {{security_question}}
+interac_e_transfer.steps.step_6,Make your Security Answer as: {{security_answer}}
+interac_e_transfer.steps.step_7,Initiate E-transfer through your Online Banking
+notify_steps.notify,ඔබේ මුදල් පසුම්බියේ මුදල් පටවන විට අපි ඔබට විද්‍යුත් තැපෑලෙන් දැනුම් දෙන්නෙමු. සටහන: ඔබේ මුදල් පසුම්බියට මුදල් බැර කිරීමට පැය 24 ක් ගතවනු ඇත.
+notify_steps.note,සටහන: ඔබේ මුදල් පසුම්බියට මුදල් බැර කිරීමට පැය 24 ක් ගතවනු ඇත.
+continue_button_title,Send me an email with instructions
+subtitle,

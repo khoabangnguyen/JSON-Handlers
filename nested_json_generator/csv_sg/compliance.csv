@@ -1,0 +1,149 @@
+﻿common.verified,Verified
+common.upload_document,Upload document
+common.upload_your_document,Upload your document
+common.upload_your_document_message,Please upload your document in the PDF format.
+common.continue,දිගටම කරගෙන යන්න
+common.completed,Completed
+common.pending_verification,සත්‍යාපනය අපේක්ෂිතය
+common.drag_and_drop,Upload කිරීමට ඇදගෙන යන්න
+common.or,or
+common.browse,browse
+common.to_choose_file,to choose a file.
+common.start,Start
+document_types.bank_statement,Bank Statement
+document_types.loan_statement,Loan Statement
+document_types.credit_card_statement,Credit Card Statement
+document_types.utility_bill,Utility Bill
+document_types.driver_license,Driver License
+document_types.passport,Passport
+document_types.national_id,National Id
+document_types.pr_card,Permanent Resident Card
+level.level1_title,1 වන මට්ටමේ සත්‍යාපනය
+level.level1_message,Please complete all required steps. This level of verification allows you to send up to {{daily_limit}} CAD daily or {{monthly_limit}} CAD monthly.
+level.level2_title,2 වන මට්ටමේ සත්‍යාපනය
+level.level2_message,Please complete all required steps. This level of verification allows you to send up to {{daily_limit}} CAD daily or {{monthly_limit}} CAD monthly.
+level.level3_title,3 වන මට්ටමේ සත්‍යාපනය
+level.level3_message,This level of verification allows you to send up to {{daily_limit}} CAD daily or {{monthly_limit}} CAD monthly.
+level.level4_title,4 වන මට්ටමේ සත්‍යාපනය
+level.level4_message,Please complete all required steps. This level of verification allows you to send up to {{daily_limit}} CAD daily or {{monthly_limit}} CAD monthly.
+level.go_to_main_menu,ප්‍රධාන menu වට යන්න
+level.send_money,මුදල් යවන්න
+level.go_next_level,Go to level {{level}} verification
+levels.verification_limits,සත්‍යාපනය සහ සීමාවන්
+levels.highest_level_security,"ඉහළම මට්ටමේ ආරක්ෂාව සැපයීම සහ ඔබේ මුදල් සහ දත්ත ආරක්ෂිත බව සහතික කිරීම සඳහා, අපට ඔබගේ ගිණුම් සත්‍යාපනය අවශ්‍ය වේ."
+levels.you_almost_there,ඔබ බොහෝ දුරට එහි සිටී
+levels.complete_verification_and_transaction_will_release,Complete the verification for Level {{level}} and your transaction will be completed automatically.
+levels.got_it,තේරුම් ගත්තා ද
+levels.level,Level
+levels.daily_limit,Daily Limit
+levels.monthly_limit,Monthly Limit
+levels.coming_soon,Coming Soon
+levels.start,Start
+fields.personal_info.title,Personal Information
+fields.personal_info.message,"Please, provide us with you personal information, so we can verify your identity, and provide the highest level of your money and data security."
+fields.personal_info.fill_personal_info,Fill personal info
+fields.personal_info.personal_info_dialog_title,"කරුණාකර, ඔබ ගැන වැඩි විස්තර අපට කියන්න"
+fields.personal_info.personal_info_dialog_subtitle,
+fields.personal_info.personal_info_dialog_section_personalinfo,Your personal information
+fields.personal_info.personal_info_dialog_section_address,Your address
+fields.personal_info.personal_info_dialog_section_occupation_industry,ඔබේ රැකියාව ගැන අපට කියන්න
+fields.personal_info.successfully_submitted,Your personal information was successfully submitted
+fields.personal_info.occupation,රැකියාව
+fields.personal_info.first_name,මුල් නම
+fields.personal_info.last_name,අවසන් නම
+fields.personal_info.date_of_birth,උපන්දිනය
+fields.personal_info.address,Address
+fields.personal_info.unit_number,ඒකක අංකය (අත්‍යවශ්‍ය නොවේ)
+fields.personal_info.province,පළාත
+fields.personal_info.city,නගරය (City)
+fields.personal_info.postal_code,තැපැල් කේතය (Postal Code)
+fields.personal_info.country,රට
+fields.personal_info.postal_code_error,Enter valid postal code
+fields.personal_info.phone_number,දුරකතන 2
+fields.phone_verification.title,Phone number verification
+fields.phone_verification.message,"Please, provide us with you phone number, so we can verify it to provide the highest level of your money and data security"
+fields.phone_verification.start_phone_number_verification,Start phone number verification
+fields.phone_verification.successfully_verified_title,Thank you for your verification
+fields.phone_verification.successfully_verified_message,Your phone number was successfully verified.
+fields.email_verification.title,Email verification
+fields.email_verification.message,Please verify your email address to activate your account.
+fields.email_verification.re_send_email,Re-send email
+fields.email_verification.successfully_verified_title,Email was sent
+fields.email_verification.successfully_verified_message,The verification email was successfully sent to your email address {{email}}
+fields.email_verification.dialog_txt_label,Please enter your email address
+fields.email_verification.send_verification_email,Send verification email
+fields.employment_verification.title,Employment information
+fields.employment_verification.message,"To ensure that you have a legal source of income, we need some extra information about your employment. All the information will be secured, and won't be shared with anyone."
+fields.employment_verification.re_send_email,Re-send email
+fields.employment_verification.successfully_verified_title,Thank you for submission!
+fields.employment_verification.successfully_verified_message,"Your information was successfully processed, and our support team will verify it during the next 24 hrs."
+fields.employment_verification.dialog_message,"Please, provide us with your employment information so we can ensure that your money are secure."
+fields.employment_verification.dialog_txt_label,Please enter your email address
+fields.employment_verification.fill_information,Fill information
+fields.document_verification.address_proof,Proof of Address
+fields.document_verification.address_proof_message,"Please, upload one of your utility bills in PDF or digital screenshot format. We accept hydro, gas, water, internet or mobile phone bills. Make sure that your home address and personal information are present on the bill."
+fields.document_verification.bank_proof,බැංකු ගිණුමේ සාධනය
+fields.document_verification.bank_proof_message,"කරුණාකර, ඔබගේ බැංකු ප්‍රකාශවලින් එකක් PDF හෝ ඩිජිටල් තිර පිටපත් ආකාරයෙන් උඩුගත කරන්න. ඔබේ නිවසේ ලිපිනය සහ පුද්ගලික තොරතුරු බිල්පතේ ඇති බවට වග බලා ගන්න."
+fields.document_verification.birth_proof,Proof of the birth date
+fields.document_verification.birth_proof_message,"Please, upload the photo of the official document which contains your birth date. You can take a photo of a government-issued driver license, photo card, health card, PR card or passport. Make sure that all the information is visible and photo has a good quality."
+fields.document_verification.tax_proof,Tax information
+fields.document_verification.tax_proof_message,"Please, upload a PDF copy of your T4 statement from the previous year."
+fields.document_verification.tax_proof_dialog_title,Upload tax information T4
+fields.document_verification.tax_proof_dialog_message,"Please, upload a PDF copy of your T4 statement from the previous year."
+fields.document_verification.id_proof,ඔබගේ හැඳුනුම්පතේ ඡායාරූපය
+fields.document_verification.id_proof_message,"කරුණාකර, ඔබේ වෙබ් කැමරාව භාවිතා කර ඔබගේ හැඳුනුම්පතේ ඡායාරූපයක් ගන්න. ඔබගේ උපාංගයට වෙබ් කැමරාවක් නොමැති නම්, ඔබට ඔබගේ දුරකථනයෙන් හෝ ටැබ්ලටයෙන් මෙම පියවර සම්පූර්ණ කළ හැකිය. සියලු තොරතුරු දෘශ්‍යමාන වන බවට වග බලා ගන්න, ඡායාරූපයට හොඳ තත්ත්වයක් අත්‍යවශ්‍යයි."
+fields.document_verification.id_proof_dialog_message,කරුණාකර ඔබගේ හැඳුනුම්පතේ ඡායාරූපය අපට ලබා දෙන්න. සියලු තොරතුරු පැහැදිලිව පෙනෙන සහ කියවිය හැකි බවට වග බලා ගන්න
+fields.document_verification.selfie_id_proof,Selfie with ID
+fields.document_verification.selfie_id_proof_message,"Please, take a selfie with your ID using your web camera. If your device doesn't have a web camera, you can complete this step from your phone or tablet. Make sure that all the information, and your face are visible, and photo has a good quality."
+fields.document_verification.selfie_id_proof_dialog_message,"Please, do a selfie with your ID. Make sure that your ID is beside your face and all information is clearly visible and readable."
+fields.document_verification.select_type_document,ඔබට upload කිරීමට අවශ්‍ය ලේඛනයක් තෝරන්න
+fields.document_verification.upload_utility_bill_title,Upload utility bill
+fields.document_verification.upload_utility_bill_message,Please upload any of your utility bills in the PDF format.
+fields.document_verification.upload_pay_stub_title,Upload pay stub
+fields.document_verification.upload_pay_stub_message,Please upload any of your pay stubs in the PDF format.
+fields.document_verification.upload_bank_statement_title,Upload bank statement
+fields.document_verification.upload_bank_statement_message,Please provide us with a copy of your bank statement. You can take a picture of it or upload a file in PDF format.
+fields.document_verification.upload_loan_statement_title,Upload loan statement
+fields.document_verification.upload_loan_statement_message,Please provide us with a copy of your loan statement. You can take a picture of it or upload a file in PDF format.
+fields.document_verification.upload_credit_card_statement_title,ක්‍රෙඩිට් කාඩ් ප්‍රකාශය upload කරන්න
+fields.document_verification.upload_credit_card_statement_message,Please provide us with a copy of your credit card statement. You can take a picture of it or upload a file in PDF format.
+fields.document_verification.upload_birth_cert_title,Upload brith certificate
+fields.document_verification.upload_birth_cert_message,Please upload your birth certificate in the PDF format.
+fields.document_verification.upload_marriage_cert_title,Upload marriage certificate
+fields.document_verification.upload_marriage_cert_message,Please upload your marriage certificate in the PDF format.
+fields.document_verification.upload_pr_card_title,Upload permanent resident card
+fields.document_verification.upload_pr_card_message,Please upload your permanent resident card in the PDF format.
+fields.document_verification.upload_driver_license_title,Upload driver license
+fields.document_verification.upload_driver_license_message,Please upload your driver license in the PDF format.
+fields.document_verification.upload_temp_driver_license_title,Upload temporary driver license
+fields.document_verification.upload_temp_driver_license_message,Please upload your temporary driver license in the PDF format.
+fields.document_verification.upload_travel_visa_title,Upload travel visa
+fields.document_verification.upload_travel_visa_message,Please upload your travel visa in the PDF format.
+fields.document_verification.upload_passport_title,Upload passport
+fields.document_verification.upload_passport_message,Please upload your passport in the PDF format.
+fields.document_verification.upload_citizenship_cert_title,Upload citizenship certificate
+fields.document_verification.upload_citizenship_cert_message,Please upload your citizenship certificate in the PDF format.
+fields.document_verification.successfully_uploaded,ඔබගේ ලේඛනය සාර්ථකව upload කරන ලදි. එය සමාලෝචනය කිරීමට සහ අනුමත කිරීමට අපගේ සහායක කණ්ඩායමට පැය 24 ක් ගතවනු ඇත. එය සැකසූ පසු අපි ඔබට දන්වන්නෙමු
+fields.pin_to_address.title,Security code to address
+fields.pin_to_address.message,"To verify your real residential address, we will send a letter with the special PIN code to the address outlined on your ID. It may take up to 4 days before it will be delivered."
+fields.pin_to_address.sub_message,"As soon as you'll get the PIN code, enter it in the field that will appear after you send the request."
+fields.pin_to_address.pending_message,"We have sent you a mail with a security code to your address on file. You should receive it within {{countDownValue}}. Once you receive it, please submit the code below."
+fields.pin_to_address.pending_message_time_expired,"We have sent you a mail with a security code to your address on file. Once you receive it, please submit the code below."
+fields.pin_to_address.send_request,Send request
+fields.pin_to_address.request_received,Your request was received!
+fields.pin_to_address.letter_was_sent,We send a letter with a 6 digit PIN to your address:
+fields.pin_to_address.once_letter_received,"As soon as you get it, please enter the PIN using the link on your dashboard or through the Level 3 verification."
+fields.pin_to_address.pin_verified_title,Thank you for your verification
+fields.pin_to_address.pin_verified_message,You pin was successfully verified.
+fields.pin_to_address.pin_code_txt_label,Enter the security code
+fields.pin_to_address.submit_code,Submit code
+fields.pin_to_address.invalid_pin,Invalid PIN
+groups.personality_verification.title,Personality verification
+groups.personality_verification.message,"To complete a level 3 verification, and increase your sending limits we'll need to get some extra information from you. All the data and photos will be secured, and won't be shared with any other third party companies."
+groups.personality_verification.time,May take up to 96 hours
+groups.employment_verification.title,Employment verification
+groups.employment_verification.message,"To complete a level 3 verification, and increase your sending limits we'll need to get some extra information from you. All the data and photos will be secured, and won't be shared with any other third party companies."
+groups.employment_verification.time,May take up to 48 hours
+groups.videocall_verification.title,Verify your ID via video call verification
+groups.videocall_verification.message,"You can complete your level 3 verification through an online video call with one of our support agents. This call may take up to 10 minutes, and will require your access to the internet and camera. Also, make sure that you have your ID ready for the verification."
+groups.videocall_verification.time,Instant verification

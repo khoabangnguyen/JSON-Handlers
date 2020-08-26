@@ -1,0 +1,149 @@
+﻿dialog_success_title,உங்கள் பரிவர்த்தனை வெற்றிகரமாக முடிவடைந்துவிட்டது
+dialog_success_message,எங்களுடன் பணம் அனுப்பியதற்கு நன்றி. உங்கள் நிதி 1 வணிக நாளில் வர வேண்டும். பரிவர்த்தனை நிலை மற்றும் புதுப்பிப்புகள் குறித்த அறிவிப்புகளை நாங்கள் உங்களுக்கு அனுப்புவோம்.
+dialog_failed_title,உங்கள் பரிவர்த்தனை முடிக்கப்படவில்லை
+dialog_failed_message,மேலும் விவரங்களுக்கு எங்கள் வாடிக்கையாளர் சேவை மையம் ஒன்றை அணுகவும்.
+dialog_got_it,அறிந்துகொண்டேன்
+dialog_picture_required,ஒரு படம் எடுக்கப்பட வேண்டும்
+dialog_converter_rate,பரிமாற்றும் வீதம்:
+dialog_debit_limit_3000,"அதிகமாக கட்டணம் . 3,000.00 $ CAD வரை கிடைக்கின்றது"
+transfer_summary_title,அனுப்பிய குறிப்பு
+transfer_summary_bank_deposit,வங்கி வைப்பு & வங்கியில் பணம் அனுப்ப
+transfer_summary_delivery,டெலிவரி
+transfer_summary_pickup,வந்து எடுக்க
+transfer_summary_send_amount,தொகையை அனுப்புங்கள்
+transfer_summary_exchange_rate,பரிமாற்று விகிதம்
+transfer_summary_fees,கூலி
+transfer_summary_apply,விண்ணப்பிக்கவும்
+transfer_summary_recipient_gets,அவருக்கு கிடைக்கும் தொகை
+transfer_summary_receiving_method,கிடைக்கும் முறை
+transfer_summary_reward_dollars,வெகுமதி & திரும்பபெரும் டாலர்கள்
+transfer_summary_subtotal,கூட்டுத்தொகை
+transfer_summary_your_total,உங்கள் மொத்த கட்டணம்
+transfer_summary_remove_rewards,வெகுமதிகளை & திரும்பபெறுவதை அகற்று
+transfer_summary_apply_rewards_dollars,பரிசு தொகை & வெகுமதி & திரும்பபெரும் டாலர்களைப் பயன்படுத்துங்கள்
+transfer_summary_rewards_remaining,வெகுமதிகள் & திரும்பபெற்ற & மீதமுள்ளவை: $ CAD
+transfer_summary_not_enough,போதுமான இருப்பு இல்லை
+transfer_summary_above_zero,0 க்கு மேலே உள்ள தொகையை உள்ளிடவும்
+transfer_summary_invalid_amount,தவறான திரும்பபெறும் தொகை
+transfer_summary_free,இலவசம்
+transfer_summary_max_rewards_allowed,நீங்கள் அதிகபட்ச வெகுமதிகள் அனுமதிக்கப்பட்டன $ CAD வரை மட்டுமே பயன்படுத்த முடியும்.
+recipient_stepper_title,கிடைக்க வேண்டியவர் & பெறுநர்
+recipient_select_your_recipient,யாருக்கு அனுப்ப வேண்டும் என்பதை தெரிவு செய்யுங்கள் & உங்கள் பெறுநரைத் தேர்ந்தெடுக்கவும்
+recipient_enter_recipient_details,பணம் பெறுபவரின் விபரங்களை கொடுங்கள் & பெறுநரின் விவரங்களை உள்ளிடவும்
+recipient_create_new_receiving_method,புதிய பெறும் முறையை உருவாக்கவும்
+transfer_speed_title,உங்கள் பரிமாற்றத்தின் வேகத்தைத் தேர்ந்தெடுக்கவும்
+transfer_speed_sub-title,"COVID-19 கொரோனா காலத்தில் கடைகளை பூட்டி இருப்பதன் காரணமாக, அனைத்து பண பரிமாற்ற நிறுவனங்களும் பெரும் தாமதங்கள் மற்றும் சேவை இடையூறுகளை எதிர்கொள்கின்றன. தாமதங்களைத் தடுக்கவும், விரைவில் உங்கள் அன்புக்குரியவர்களுக்கு பணத்தை வழங்கவும், நாங்கள் “உடனடி இடமாற்றம்” தொடங்கினோம். இந்த கடினமான காலங்களில், எதை வேண்டுமானாலும் பணத்தை விரைவாகவும் பாதுகாப்பாகவும் வழங்குவதே எங்கள் முன்னுரிமை."
+transfer_speed_warning-message,இந்த விநியோக முறை கிடைக்கிறது
+transfer_speed_warning-message-only-banks,வங்கியில் செலுத்தும் முறை மட்டுமே உள்ளது
+transfer_speed_speed_instant,உடனடி
+transfer_speed_speed_instant_speed_time,(1 வணிக நாள்) & ஒரு வேலை நாள்
+transfer_speed_speed_regular,வழக்கமான
+transfer_speed_speed_regular_speed_time,(1-5 வணிக நாள்) & 1-5 வேலை நாள்
+transfer_speed_speed_hour,மதிப்பு நேரம்
+transfer_speed_speed_business_day,மதிப்பு வணிக நாள்
+transfer_details_stepper_title,பணம் அனுப்பும் விவரங்கள்
+transfer_details_how_much_would_you_like_tosend,எவ்வளவு அனுப்ப விரும்புகிறீர்கள்?
+transfer_details_transfer_purpose,நீங்கள் எதற்காக பணம் அனுப்புகின்றிர்கள்?
+transfer_details_select_purpose,காரணத்தை தெரிவு செய்யுங்கள்
+transfer_details_choose_country_want_to_send_money,நீங்கள் எந்த நாட்டுக்கு பணம் அனுப்ப போகின்றிர்கள்?
+transfer_details_max_month_sending_limit,உங்கள் அதிகபட்ச மாதாந்திர அனுப்பும் வரம்பை நீங்கள் அடைந்துவிட்டீர்கள்.
+transfer_details_max_day_sending_limit,உங்கள் அதிகபட்ச தினசரி அனுப்பும் வரம்பை அடைந்துவிட்டீர்கள்.
+transfer_details_day_limit_available,உங்கள் தினசரி பணம் அனுப்பும் உரிமையுள்ளது $ CAD
+transfer_details_month_limit_available,உங்கள் மாதாந்திர பணம் அனுப்பும் உரிமையுள்ளது $ CAD
+transfer_details_max_cash_pickup,தேர்ந்தெடுக்கப்பட்ட முகவருக்கான அதிகபட்ச பெற்றுக்கொள்ளும் தொகை {{பெறும்_அளவு_லிமிட்}} {{நாணயக் குறியீடு} ஆகும். தயவுசெய்து வேறு முகவரைத் தேர்ந்தெடுக்கவும் அல்லது பெறும் முறையை மாற்றவும்
+transfer_details_max_day_limit_available,நீங்கள் அனுப்பக்கூடிய அதிகபட்ச தினசரி தொகை $ CAD
+transfer_details_max_month_limit_available,நீங்கள் அனுப்பக்கூடிய அதிகபட்ச மாதாந்திர தொகை $ CAD
+transfer_details_sending_amount_requires,இந்த அனுப்பும் தொகை தேவை
+transfer_details_min_sending_amount,குறைந்தபட்சம் அனுப்பும் தொகை 10 $ CAD
+transfer_details_select_other_receiving_method,பெறும் பிற முறையைத் தேர்ந்தெடுக்கவும்
+transfer_details_choose_receiving_method,பணம் பெறும் முறையைத் தேர்வுசெய்க
+transfer_details_amount_requires_level_upgrade,இந்த அனுப்பும் தொகை தேவை
+transfer_details_level_n_verification,நிலை சரிபார்ப்பு
+transfer_details_you_send,நீங்கள் அனுப்புங்கள்
+transfer_details_they_receive,அவர்கள் பெறுகிறார்கள் & பெற்று விட்டார்கள்
+payment_stepper_title,கட்டணம்
+payment_select_payment_option,எந்த முறையில் பணம் செலுத்த போகின்றிர்கள்? & கட்டண விருப்பங்களில் ஒன்றைத் தேர்ந்தெடுக்கவும்
+payment_wallet_payment,மின் அசல் மூலமாக(e-transfer) அனுப்புவது
+payment_card_payment,வங்கி அட்டை (bank cards)
+payment_choose_your_bank,நீங்கள் எந்த வங்கியில் இருந்து பணம் செலுத்த போகின்றிர்கள்? & உங்கள் வங்கியைத் தேர்வுசெய்க
+payment_transfer_speed,பரிமாற்ற வேகம்
+payment_pay_with_your_card,உங்கள் டெபிட் கார்டுடன் பணம் செலுத்துங்கள்
+payment_name_on_the_card,அட்டையில் பெயர்
+payment_card_number,அட்டை எண்
+payment_expiry_date,காலாவதி தேதி
+payment_security_code,பாதுகாப்பு குறியீடு
+payment_select_other_payment_method,பிற கட்டண முறையைத் தேர்ந்தெடுக்கவும்
+payment_not_able_to_validate_card,"மன்னிக்கவும்! உங்கள் அட்டையை எங்களால் சரிபார்க்க முடியவில்லை. தயவுசெய்து, நீங்கள் உள்ளிட்ட எண்களை இருமுறை சரிபார்க்கவும் அல்லது வேறு கட்டண முறையைத் தேர்ந்தெடுக்கவும்."
+payment_failed_interac_payment,"மன்னிக்கவும்! உங்கள் கட்டணத்தை எங்களால் செயல்படுத்த முடியவில்லை. தயவுசெய்து, மீண்டும் முயற்சிக்கவும் அல்லது வேறு கட்டண முறையைத் தேர்ந்தெடுக்கவும்."
+payment_card_number_length_error_msg,அட்டை எண்ணில் 16 இலக்கங்கள் இருக்க வேண்டும்
+payment_expiry_date_length_error_msg,காலாவதி தேதியில் 4 இலக்கங்கள் இருக்க வேண்டும்
+payment_security_code_length_error_msg,பாதுகாப்பு குறியீட்டில் 3 இலக்கங்கள் இருக்க வேண்டும்
+payment_payment_option_unavailable,விரைவில் கிடைக்கும்
+payment_payment_option_on_app,விரைவில் வலைக்கு வருகிறது. ஆப் ( App ) பயன்படுத்தவும்
+payment_available_balance,இருப்பு தொகை $ CAD
+payment_pay_with_wallet,செலுத்துங்கள் பணத்தை வாலிட்டில்
+payment_enter_your_bank_info,உங்கள் வங்கி தகவலை உள்ளிடவும்
+payment_bank_institution_number,வங்கி நிறுவன எண்
+payment_transit_number,அனுப்பிய எண்
+payment_account_number,வங்கி இலக்கம்
+payment_confirm_your_identity,உங்கள் அடையாளத்தை உறுதிப்படுத்தவும்
+payment_confirm_your_identity_message,"தயவுசெய்து, உங்கள் வலை கேமராவைப் பயன்படுத்தி உங்கள் ஐடியுடன் செல்ப்பி எடுத்துக் கொள்ளுங்கள். உங்கள் சாதனத்தில் வலை கேமரா இல்லையென்றால், உங்கள் தொலைபேசி அல்லது லாப்டப்பிலிருந்து இந்த படிநிலையை முடிக்க முடியும். எல்லா தகவல்களும், உங்கள் முகமும் தெரியும் என்பதை உறுதிப்படுத்திக் கொள்ளுங்கள், மேலும் புகைப்படத்தில் நல்ல தரம் உள்ளது."
+payment_take_selfie_with_id,ஐடியுடன் செல்ப்பி எடுத்துக் கொள்ளுங்கள்
+payment_institution_number_3_digits,நிறுவன எண்ணில் 3 இலக்கங்கள் இருக்க வேண்டும்
+payment_selfie_instructions,"தயவுசெய்து, உங்கள் ஐடியுடன் செல்ப்பி செய்யுங்கள். உங்கள் ஐடி உங்கள் முகத்திற்கு அருகில் இருப்பதையும், அனைத்து தகவல்களும் தெளிவாக படிக்கக்கூடியதா என்பதையும் உறுதிப்படுத்திக் கொள்ளுங்கள்"
+payment_eft_info_tooltip,இந்த தகவலை உங்கள் காசோலை புத்தகத்தில் அல்லது உங்கள் ஆன்லைன் வங்கி போர்ட்டலில் காணலாம்
+payment_institution_no_validation_msg,நிறுவன எண்ணில் 3 இலக்கங்கள் இருக்க வேண்டும்
+payment_transit_no_validation_msg,அனுப்புகின்ற எண்ணில் 5 இலக்கங்கள் இருக்க வேண்டும்
+payment_link_your_bank_account,உங்கள் வங்கிக் கணக்கை இணைக்கவும்
+eft_selection_list_select_bank_account,வங்கி கணக்கைத் தேர்ந்தெடுக்கவும்
+eft_selection_list_add_new_bank_account,புதிய வங்கிக் கணக்கைச் சேர்க்கவும் +
+review_stepper_title,விமர்சனம்
+review_transfer_overview,அனுப்பிய விபரங்கள் & கண்ணோட்டத்தை மாற்றவும்
+review_confirm_send,உறுதிசெய்து அனுப்புங்கள்
+review_you_sending_to,நீங்கள் அனுப்புகிறீர்கள்
+review_you_paying_with,நீங்கள் பணம் செலுத்துகிறீர்கள்
+review_debit,டெபிட் கார்டு
+review_interac,ஊடாடும் ( Interac )
+review_eft,நேரடி திரும்பப் பெறுதல் (EFT)
+review_interac_e_transfer,ஈ-பரிமாற்றம்
+review_current_balance,வாலிட் இருப்பு
+review_bill_payment,வில் கட்டணம்
+review_payment_method,கட்டணம் செலுத்தும் முறை
+review_card_information,காட் & அட்டை தகவல்
+review_billing_address,வில்லிங் முகவரி
+review_bank_code,வங்கி குறியீடு
+review_code,குறியீடு
+review_account_number,வங்கி இலக்கம்
+review_address,முகவரி
+review_location,இடம்
+review_name,பெயர்
+review_phone_number,தொலைபேசி இலக்கம்
+review_bank,வங்கி பெயர்
+review_money_debited,பணம் கழிகப்பட்டது
+review_remaining_balance,மீதமுள்ள தொகை
+review_payment_amount,கொடுப்பனவு தொகை
+review_transit_no,அனுப்பிய எண்
+review_account_no,வங்கி இலக்கம்
+sender_stepper_title,அனுப்புநர்
+flinks_OPERATION_PENDING,"சிறிது நேரத்தில் செயல்பாடு நிலுவையில் உள்ளது, சில நிமிடங்கள் கழித்து முயற்சிக்கவும்."
+flinks_SUCCESS,உங்கள் கணக்கு வெற்றிகரமாக இணைக்கப்பட்டது
+flinks_integration_error,உங்கள் வங்கிக் கணக்குடன் எங்களால் இணைக்க முடியவில்லை. சில நிமிடங்களில் மீண்டும் முயற்சிக்கவும்.
+flinks_integration_progress,உங்கள் கணக்கை இணைக்க 3 நிமிடம் வரை ஆகலாம். விண்டோசை மூட வேண்டாம்.
+transfer_purposes_family_expense,குடும்ப செலவு
+transfer_purposes_life_expense,ஆயுள் செலவு
+transfer_purposes_gift_expense,பரிசு செலவு
+transfer_purposes_sponsoring,நிதியுதவி
+transfer_purposes_travel_expense,பயண செலவு
+transfer_purposes_business_expense,வணிக செலவு
+transfer_purposes_purchasing_business_equipment,வணிக உபகரணங்கள் வாங்குதல்
+transfer_purposes_investment,முதலீடு
+transfer_purposes_providing_a_loan,கடன் வழங்குதல்
+transfer_purposes_repaying_a_loan,கடனை திருப்பிச் செலுத்துதல்
+transfer_purposes_education_expense,கல்வி செலவு
+transfer_purposes_medical_expense,மருத்துவ செலவு
+transfer_purposes_paying_bills,கட்டணம் செலுத்துதல்
+payment_types_e-transfer,மின்& ஈ பரிமாற்றம்
+payment_types_bill_payment,வில் கட்டணம்
+payment_types_direct_withdrawal_(eft),நேரடி திரும்பப் பெறுதல் (EFT)
+payment_types_debit,பற்று
+payment_types_interac,ஊடாடும்

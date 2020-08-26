@@ -1,0 +1,122 @@
+{
+    "\ufeffaccount_number": "\u0db6\u0dd0\u0d82\u0d9a\u0dd4 \u0d9c\u0dd2\u0dab\u0dd4\u0db8\u0dca \u0d85\u0d82\u0d9a\u0dba",
+    "add_new_recipient": "\u0db1\u0dc0 \u0dbd\u0db6\u0db1\u0dca\u0db1\u0dcf \u0d91\u0d9a\u0dca \u0d9a\u0dbb\u0db1\u0dca\u0db1",
+    "add_new": "+Add new",
+    "choose_country": "Choose the country",
+    "choose_receiving_method": "Choose receiving method",
+    "edit": "Edit",
+    "recipients_list": "Recipients list",
+    "recipient_details": "Recipient details",
+    "recipient_contact_information": "\u0dbd\u0db6\u0db1\u0dca\u0db1\u0dcf\u0d9c\u0dda \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0\u0dad\u0dcf \u0dad\u0ddc\u0dbb\u0dad\u0dd4\u0dbb\u0dd4",
+    "recipient_phone_number": "\u0dbd\u0db6\u0db1\u0dca\u0db1\u0dcf\u0d9c\u0dda \u0daf\u0dd4\u0dbb\u0d9a\u0dae\u0db1 \u0d85\u0d82\u0d9a\u0dba",
+    "recipient_address_information": "Recipient address informations",
+    "search": "Search",
+    "send_money": "\u0db8\u0dd4\u0daf\u0dbd\u0dca \u0dba\u0dc0\u0db1\u0dca\u0db1",
+    "saved": "Saved",
+    "your_recipients": "Your recipients",
+    "payment_method_warning": "Please note that an extra bank transfer fee of 10.00 CAD applies to all money transfers to this country.",
+    "remove_priority_speed_message": "Great news! From the January 14th, 2020 Remitbee offers a priority speed for all regular transfers without any fees!",
+    "optional": "optional",
+    "contact_information_subtitle": "\u0db8\u0dd9\u0db8 \u0d9c\u0db1\u0dd4\u0daf\u0dd9\u0db1\u0dd4\u0dc0 \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3 \u0dba\u0dcf\u0dc0\u0dad\u0dca\u0d9a\u0dcf\u0dbd\u0dd3\u0db1 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dca \u0dbd\u0db6\u0dcf \u0daf\u0dd3\u0db8\u0da7 \u0d9a\u0dbb\u0dd4\u0dab\u0dcf\u0d9a\u0dbb \u0d85\u0db4\u0da7 \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0\u0dad\u0dcf \u0dad\u0ddc\u0dbb\u0dad\u0dd4\u0dbb\u0dd4 \u0dbd\u0db6\u0dcf \u0daf\u0dd9\u0db1\u0dca\u0db1",
+    "view_more": "View more",
+    "choose_your_country": "Choose your country",
+    "select_recipient": "Select Recipient",
+    "recipients_table": {
+        "recipient": "\u0dbd\u0db6\u0db1\u0dca\u0db1\u0dcf",
+        "last_sent_date": "\u0d85\u0dc0\u0dc3\u0db1\u0dca \u0dc0\u0dbb\u0da7 \u0dba\u0dc0\u0db1 \u0dbd\u0daf\u0dd2:",
+        "last_sent_amount": "\u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0db1\u0dba",
+        "details": "Actions"
+    },
+    "dialog_form": {
+        "title": "\u0db1\u0dc0 \u0dbd\u0db6\u0db1\u0dca\u0db1\u0dcf \u0d91\u0d9a\u0dca \u0d9a\u0dbb\u0db1\u0dca\u0db1",
+        "recipient_info_title": "Recipient details",
+        "edit_title": "Edit recipient details"
+    },
+    "form": {
+        "continue_button": "\u0daf\u0dd2\u0d9c\u0da7\u0db8 \u0d9a\u0dbb\u0d9c\u0dd9\u0db1 \u0dba\u0db1\u0dca\u0db1",
+        "save_button": "Save",
+        "receiving_method_label": "Choose the receiving method",
+        "bank_deposit_radio": "\u0db6\u0dd0\u0d82\u0d9a\u0dd4 \u0d9c\u0dd2\u0dab\u0dd4\u0db8\u0da7",
+        "delivery_radio": "\u0db8\u0dd4\u0daf\u0dbd\u0dca \u0d9c\u0dd9\u0dba\u0dd2\u0db1\u0dca \u0d9c\u0dd9\u0da7 \u0db7\u0dcf\u0dbb \u0daf\u0dd3\u0db8",
+        "pickup_radio": "\u0db8\u0dd4\u0daf\u0dbd\u0dca \u0dbd\u0db6\u0dcf \u0d9c\u0dd0\u0db1\u0dd3\u0db8",
+        "bank_deposit_details_label": "\u0dbd\u0db6\u0db1\u0dca\u0db1\u0dcf\u0d9c\u0dda \u0db6\u0dd0\u0d82\u0d9a\u0dd4 \u0dc0\u0dd2\u0dc3\u0dca\u0dad\u0dbb",
+        "bank_details": {
+            "ben_bank_name_manual": "Bank name",
+            "ben_bank_code_manual": "Bank code",
+            "ben_bank_branch_code_manual": "Branch code",
+            "ben_bank_account": "\u0db6\u0dd0\u0d82\u0d9a\u0dd4 \u0d9c\u0dd2\u0dab\u0dd4\u0db8",
+            "ben_cnaps": "Cnaps"
+        },
+        "branch_labels": {
+            "aba": "ABA Routing Number (Direct Deposit)",
+            "swift": "SWIFT",
+            "au-bsb": "BSB",
+            "iban": "IBAN",
+            "in-ifsc": "IFSC",
+            "sort": "SORT",
+            "branch": "Branch"
+        },
+        "location_name": "Location name:",
+        "ben_city": "\u0db1\u0d9c\u0dbb\u0dba:",
+        "province": "\u0db4\u0dc5\u0dcf\u0dad:",
+        "ben_province": "\u0db4\u0dc5\u0dcf\u0dad",
+        "branch_code": "code",
+        "phone": "Phone",
+        "ben_country": "Country",
+        "ben_address1": "Address",
+        "email_address": "\u0dbd\u0db6\u0db1\u0dca\u0db1\u0dcf\u0d9c\u0dda \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dd4\u0dad\u0dca \u0dad\u0dd0\u0db4\u0dd0\u0dbd\u0dca \u0dbd\u0dd2\u0db4\u0dd2\u0db1\u0dba (\u0d85\u0dad\u0dca\u200d\u0dba\u0dc0\u0dc1\u0dca\u200d\u0dba \u0db1\u0ddc\u0dc0\u0dda)",
+        "ben_postal": "\u0dad\u0dd0\u0db4\u0dd0\u0dbd\u0dca \u0d9a\u0dda\u0dad\u0dba",
+        "update_button": "Save",
+        "company_name": "Company name",
+        "first_name": "\u0db8\u0dd4\u0dbd\u0dca \u0db1\u0db8",
+        "last_name": "\u0d85\u0dc0\u0dc3\u0db1\u0dca \u0db1\u0db8",
+        "save_recipient_changes": "Save changes",
+        "delete_recipient": "Delete recipient",
+        "cnaps": "Cnaps"
+    },
+    "receiving_methods": {
+        "bank_deposit": {
+            "bank_select": {
+                "default_bank_option": "\u0d94\u0db6\u0dda \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0 \u0dad\u0ddd\u0dbb\u0db1\u0dca\u0db1",
+                "default_branch_option": "Choose your bank branch"
+            }
+        },
+        "agent": {
+            "title": "Choose the agent location",
+            "province": "\u0db4\u0dc5\u0dcf\u0dad",
+            "city": "\u0db1\u0d9c\u0dbb\u0dba",
+            "location": "Agent location"
+        },
+        "radio_list_title": "Choose the receiving method",
+        "add_new_receiving_method_label": "Add new",
+        "receiving_method_success_msg": "Receiving method updated successfully",
+        "create_new_receiving_method": "Create a new receiving method"
+    },
+    "receiving_speed": {
+        "regular": "Regular",
+        "priority": "Priority",
+        "choose_speed_time": "Choose the receiving method speed time"
+    },
+    "success": {
+        "update_recipient": "Recipient was successfully updated.",
+        "delete_recipient": "Recipient was successfully deleted."
+    },
+    "errors": {
+        "invalid_cnaps": "Invalid cnaps",
+        "invalid_branch_code": "Invalid branch code",
+        "deleting_recipient": "Error while deliting, try again."
+    },
+    "tooltip": {
+        "edit_beneficiary": {
+            "delete_payment_method": "Delete payment method"
+        }
+    },
+    "notification": {
+        "one_city_available": "This {{method}} method is available only for {{city}} area"
+    },
+    "payment_methods": {
+        "bank_deposit": "Bank deposit",
+        "delivery": "Delivery",
+        "pickup": "Pickup"
+    }
+}

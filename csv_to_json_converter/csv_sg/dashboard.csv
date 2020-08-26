@@ -1,0 +1,28 @@
+﻿dashboard,උපකරණ පුවරුව
+last_sent,Last sent
+send_money,මුදල් යවන්න
+your_recipients,Your recipients
+welcome_message,රෙමිට්බී වෙත සාදරයෙන් පිළිගනිමු
+sub_title_1,අදම හොඳම අනුපාතය සහ අඩුම ගාස්තු සමඟ මුදල් යැවීම ආරම්භ කරන්න!
+promo_cards.covid.primary,COVID-19 Update
+promo_cards.covid.secondary,Important information regarding our business hours and steps we are taking to protect the health of our customers and employees.
+promo_cards.covid.alt,Remitbee Covid-19 Update
+promo_cards.covid.link,Read more
+promo_cards.refer.primary,Refer 3 friends and earn $51
+promo_cards.refer.secondary,"With our Referral program, there are no limits on how much you can earn! Receive $50 for every 3 people who make their first transfer."
+promo_cards.refer.alt,Remitbee Refer & Earn icon
+promo_cards.refer.link,Start inviting
+promo_cards.mobile_apps.primary,Download new Remitbee App!
+promo_cards.mobile_apps.secondary,"Created for our customers on the go, Remitbee available for all IOS and Android devices!"
+promo_cards.fee_free.primary,Free transfers over $501
+promo_cards.fee_free.secondary,Send over 500 CAD via the Remitbee Wallet option for fee-free transfers! Our fees are always as low as possible and are never hidden.
+promo_cards.fee_free.alt,Remitbee Wallet Icon
+promo_cards.fee_free.link,Go to wallet
+mobile_app_dialog.link_send_success,A link wast sent to your phone.
+mobile_app_dialog.link_request,Send me SMS with the link
+mobile_app_dialog.header,The new Remitbee app is waiting for you
+mobile_app_dialog.subtitle,"Created for our customers on demand, our mobile app has all the desktop functionalities available on your iOS or Android device!"
+mobile_app_dialog.link_will_be_sent,A link for downloading the app will be sent to:
+mobile_app_dialog.alt_subtitle,"Created for our customers on the go, our mobile app has all the functionality you expect from the website compacted into your iOS or Android device!"
+mobile_app_dialog.you_will_be_redirected,You will be redirected to the
+mobile_app_dialog.app_store_in_a_few,App Store in a few seconds.

@@ -1,0 +1,50 @@
+{
+    "\ufeffbill_payment": {
+        "title": "Bill payment instructions"
+    },
+    "bill_payment": {
+        "card_title": "Bill payment instructions",
+        "sub_title": "You can now load your wallet by using Bill payments option from your bank. Please follow these steps:",
+        "sub_title_2": "It is important you follow these steps carefully to avoid delays in Credit.",
+        "account_number": "1.42E+13",
+        "add_payee": "Add payee",
+        "verify": "Verify",
+        "pay_with": "Pay with Bill Payment",
+        "steps": {
+            "step_1": "Login to your Bank and go to the Bill Payment Section",
+            "step_2": "If you have already added us, simply select",
+            "step_2_1": ", for account number use",
+            "step_2_2": "and proceed with the desired amount.",
+            "step_3": "First time users, click",
+            "step_3_1": "and search for",
+            "step_3_2": "and add us.",
+            "step_4": "your payment details and submit the payment.",
+            "step_5": "Make sure you click deposit.",
+            "step_6": "Proceed to send money!"
+        }
+    },
+    "interac_e_transfer": {
+        "title": "E-Transfer instructions",
+        "card_title": "\u0d94\u0db6\u0dda \u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0d9c\u0dad \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0d9a\u0dbb\u0dab\u0dba \u0dc4\u0dbb\u0dc4\u0dcf E-transfer \u0d86\u0dbb\u0db8\u0dca\u0db7 \u0d9a\u0dbb\u0db1\u0dca\u0db1",
+        "sub_title": "You can load your Wallet with Interact E-transfer for up to 2000.00 CAD. Please, follow these steps:",
+        "recipient_email": "wallet@remitbee.com",
+        "security_question_sample": "What is my User ID?'",
+        "security_answer_sample": "1.13221E+13",
+        "pay_with": "E - transfer \u0dc0\u0dd9\u0dad\u0dd2\u0db1\u0dca \u0d9c\u0dd9\u0dc0\u0db1\u0dca\u0db1 .",
+        "steps": {
+            "step_1": "\u0d94\u0db6\u0d9c\u0dda \u0db6\u0dd0\u0d82\u0d9a\u0dd4 \u0d9c\u0dd2\u0dab\u0dd4\u0db8\u0da7 \u0db4\u0dd2\u0dc0\u0dd2\u0dc3\u0dd9\u0db1\u0dca\u0db1",
+            "step_2": "Set your recipient as",
+            "step_3": "Set the recipient email as",
+            "step_4": "In 'Message to recipient', type your email: {{customer_email}}",
+            "step_5": "Make you Security Questions as: {{security_question}}",
+            "step_6": "Make your Security Answer as: {{security_answer}}",
+            "step_7": "Initiate E-transfer through your Online Banking"
+        }
+    },
+    "notify_steps": {
+        "notify": "\u0d94\u0db6\u0dda \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0db4\u0dc3\u0dd4\u0db8\u0dca\u0db6\u0dd2\u0dba\u0dda \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0db4\u0da7\u0dc0\u0db1 \u0dc0\u0dd2\u0da7 \u0d85\u0db4\u0dd2 \u0d94\u0db6\u0da7 \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dd4\u0dad\u0dca \u0dad\u0dd0\u0db4\u0dd1\u0dbd\u0dd9\u0db1\u0dca \u0daf\u0dd0\u0db1\u0dd4\u0db8\u0dca \u0daf\u0dd9\u0db1\u0dca\u0db1\u0dd9\u0db8\u0dd4. \u0dc3\u0da7\u0dc4\u0db1: \u0d94\u0db6\u0dda \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0db4\u0dc3\u0dd4\u0db8\u0dca\u0db6\u0dd2\u0dba\u0da7 \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0db6\u0dd0\u0dbb \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0db4\u0dd0\u0dba 24 \u0d9a\u0dca \u0d9c\u0dad\u0dc0\u0db1\u0dd4 \u0d87\u0dad.",
+        "note": "\u0dc3\u0da7\u0dc4\u0db1: \u0d94\u0db6\u0dda \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0db4\u0dc3\u0dd4\u0db8\u0dca\u0db6\u0dd2\u0dba\u0da7 \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0db6\u0dd0\u0dbb \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0db4\u0dd0\u0dba 24 \u0d9a\u0dca \u0d9c\u0dad\u0dc0\u0db1\u0dd4 \u0d87\u0dad."
+    },
+    "continue_button_title": "Send me an email with instructions",
+    "subtitle": ""
+}

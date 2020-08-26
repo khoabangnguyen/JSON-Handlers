@@ -1,0 +1,54 @@
+﻿title_create,விரிவாக்கத்தை உருவாக்குங்கள்
+title_form,நீங்கள் எதிர்கொண்ட சிக்கலைத் தேர்வுசெய்க
+title_leave_message,ஒரு செய்தியை அனுப்புங்கள்
+confirm_selection,தேர்வை உறுதிப்படுத்தவும்
+sub_title_leave_message,"நீங்கள் ஒரு செய்தியை அனுப்ப விரும்பினால் அல்லது எங்கள் வாடிக்கையாளர் ஆதரவு முகவர்களுக்கான ஆவணங்கள் அல்லது ஸ்கிரீன் ஷாட்களை இணைக்க விரும்பினால், தயவுசெய்து அதை கீழே உள்ள புலத்தில் செய்யுங்கள்."
+attach_file,கோப்பினை இணைக்கவும்
+create_escalation_button,விரிவாக்கத்தை உருவாக்குங்கள்
+create_escalation_error,"இதற்காக ஏற்கனவே ஒரு டிக்கெட் உருவாக்கப்பட்டுள்ளது, தயவுசெய்து இதை விசாரித்து உங்களிடம் திரும்பிச் செல்ல எங்களுக்கு சிறிது நேரம் கொடுங்கள்"
+created_escalation_success,விரிவாக்கம் வெற்றிகரமாக உருவாக்கப்பட்டது.
+create_error_general,விரிவாக்கத்தை உருவாக்கும் போது பிழை செய்தி
+select_box_type_title,சிக்கலின் வகையைத் தேர்ந்தெடுக்கவும்
+select_box_sub_type_title,சிக்கலைத் தேர்ந்தெடுக்கவும்
+select_box_default_type_issue,இடமாற்றத்தில் & அனுப்புதல் சிக்கல்
+select_box_default_sub_type_issue,சிக்கலைத் தேர்ந்தெடுக்கவும்
+description,விளக்கம்
+reason,காரணம்
+escalation_type,விரிவாக்க வகை
+issue_types_transaction,பரிவர்த்தனை
+issue_types_compliance,இணக்கம்
+issue_types_onboarding,ஆன் போர்டிங்
+issue_types_technical,தொழில்நுட்பம்
+issue_types_general,பொது
+problems_funds_not_received,நிதி பெறப்படவில்லை
+problems_lower_amount_deposited,குறைந்த அளவு டெபாசிட் செய்யப்பட்டது
+problems_transfer_cancellation,பரிமாற்றம் ரத்து
+problems_i_need_transaction_history,எனக்கு பரிவர்த்தனை வரலாறு தேவை
+problems_need_to_update_beneficiary_information,பயனாளி தகவல்களை புதுப்பிக்க வேண்டும்
+problems_bill_payment_not_updated_for_more_than_24_hours,வில் கட்டணம் 24 மணி நேரத்திற்கும் மேலாக புதுப்பிக்கப்படவில்லை
+problems_e-transfer_not_updated_for_more_than_24_hours,மின் பரிமாற்றம் 24 மணி நேரத்திற்கும் மேலாக புதுப்பிக்கப்படவில்லை
+problems_wallet_showing_wrong_balance,தவறானபண இருப்பை காட்டும் வாலிட்
+problems_transaction_status_not_updated,பரிவர்த்தனை நிலை புதுப்பிக்கப்படவில்லை
+problems_pickup_locations_refusing_the_transactions,பரிவர்த்தனைகளை மறுக்கும் இடங்கள்
+problems_account_not_verified,கணக்கு சரிபார்க்கப்படவில்லை
+problems_need_to_increase_sending_limit,அனுப்பும் தொகயை அதிகரிக்க வேண்டும்
+problems_dont_have_the_documents,ஆவணங்கள் இல்லை
+problems_account_hacked,கணக்கு ஹேக் செய்யப்பட்டது
+problems_need_to_update_my_personal_information,எனது தனிப்பட்ட தகவல்களைப் புதுப்பிக்க வேண்டும்
+problems_unable_to_upload_documents,ஆவணங்களை பதிவேற்ற முடியவில்லை
+problems_password_not_working,கடவுச்சொல் வேலை செய்யவில்லை
+problems_my_friend_didnt_get__referral_bonus,எனது நண்பருக்கு பரிந்துரை போனஸ் கிடைக்கவில்லை
+problems_i_didnt_get_referral_bonus,எனக்கு பரிந்துரை போனஸ் கிடைக்கவில்லை
+problems_confusion_with_fees_and_rates,கட்டணம் மற்றும் கட்டணங்களுடன் குழப்பம்
+problems_app_crashes,பயன்பாட்டு செயலிழப்புகள்
+problems_login_not_working,உள்நுழைவு வேலை செய்யவில்லை
+problems_funds_withdrawn_from_bank_account,வங்கிக் கணக்கிலிருந்து நிதி திரும்பப் பெறப்பட்டது
+problems_bank_payment_not_working,வங்கி கட்டணம் வேலை செய்யவில்லை
+problems_wallet_payment_not_credited,வாலிட் கட்டணம் வரவு வைக்கப்படவில்லை
+problems_rate_is_lower,விகிதம் குறைவாக உள்ளது
+problems_customer_service_is_bad,வாடிக்கையாளர் சேவை மோசமானது
+problems_service_is_bad,சேவை மோசமானது
+problems_service_is_slow,சேவை மெதுவாக உள்ளது
+problems_no_response_to_inquiries,விசாரணைகளுக்கு எந்த பதிலும் இல்லை
+problems_wallet_payment_not_received,வாலிட் கட்டணம் பெறப்படவில்லை
+problems_wallet_payment_not_verified,வாலிட் கட்டணம் சரிபார்க்கப்படவில்லை

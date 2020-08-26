@@ -1,0 +1,55 @@
+﻿deposit_method.stepper_title,Deposit Method
+deposit_method.title,
+deposit_method.sub-title,
+deposit_method.eft,Direct Withdrawal (EFT)
+deposit_method.interac_e_transfer,E-Transfer
+deposit_method.bill_payment,Bill payment
+deposit_method.tranfer_speed,1-2 business days
+bank_details.stepper_title,Bank Details
+bank_details.title,Choose the deposit method
+bank_details.sub-title,"Select a type of payment you want to use for funding Remitbee Wallet. Note, that all these payment methods are"
+bank_details.fee_text,fee free!
+bank_details.transfer_speed,Transfer speed
+bank_details.1 hour,1 hour
+bank_details.select_other_payment_method,Select other payment method
+bank_details.failed_interac_payment,"Sorry! We were not able to process your payment. Please, try again or select a different payment method."
+bank_details.payment_option_unavailable,Will be available soon
+bank_details.enter_your_bank_info,Enter your bank information
+bank_details.bank_institution_number,Bank institution number
+bank_details.transit_number,Transit number
+bank_details.account_number,බැංකු ගිණුම් අංකය
+bank_details.confirm_your_identity,Confirm your identity
+bank_details.confirm_your_identity_message,"Please, take a selfie with your ID using your web camera. If your device doesn't have a web camera, you can complete this step from your phone or tablet. Make sure that all the information, and your face are visible, and photo has a good quality."
+bank_details.take_selfie_with_id,Take selfie with ID
+bank_details.institution_number_3_digits,Institution number must have 3 digits
+bank_details.selfie_instructions,"Please, do a selfie with your ID. Make sure that your ID is beside your face and all the information is clearly readable"
+bank_details.eft_info_tooltip,You can find this information on your cheque book or on your online bank portal
+bank_details.institution_no_validation_msg,The institution number must have 3 digits
+bank_details.transit_no_validation_msg,The transit number must have 5 digits
+bank_details.link_your_bank_account,Link your bank account
+overview.stepper_title,Overview
+overview.deposit_overview,Wallet deposit overview
+overview.deposit_summary,Deposit summary
+overview.deposit_amount,Deposit amount
+overview.deposit_method,Deposit method
+overview.eft,Direct Withdrawal (EFT)
+overview.interac_e_transfer,E-Transfer
+overview.bill_payment,Bill payment
+overview.fees,ගාස්තු
+overview.bank_name,Bank name
+overview.transit_number,Transit method
+overview.account_number,බැංකු ගිණුම් අංකය
+overview.confirm_send,Confirm and send
+overview.estimated_deposit_date,Estimated deposit date
+overview.your_total,ඔබේ එකතුව
+overview.free,Free
+sender.stepper_title,Sender
+flinks.OPERATION_PENDING,"The opration is pending in a while, try few minutes later."
+flinks.SUCCESS,Your account was successfully linked
+flinks.integration_error,We were not able to connect with your bank account. Please try again in a few minutes.
+flinks.integration_progress,To link your account can take up to 3 min. Please do not close the window.
+amount.stepper_title,ප්‍රමානය
+amount.title,Enter the deposit amount
+amount.sub-title,Enter the amount you want to deposit in your Remitbee Wallet.
+amount.you_depositing,You depositing
+amount.min_sending_amount,Minimum sending amount is 10 CAD

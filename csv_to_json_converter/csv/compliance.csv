@@ -1,0 +1,147 @@
+﻿common_verified,சரிபார்க்கப்பட்டது
+common_upload_document,ஆவணத்தைப் பதிவேற்றுக
+common_upload_your_document,உங்கள் ஆவணத்தை பதிவேற்றவும்
+common_upload_your_document_message,உங்கள் ஆவணத்தை பிடிஎப் வடிவத்தில் பதிவேற்றவும்.
+common_continue,அடுத்தது
+common_completed,நிறைவு
+common_pending_verification,உறுதிப்படுத்துதலுக்க சற்று காத்துருங்கள்
+common_drag_and_drop,உங்கள் கணனியில்(computer) இருந்தால் இழுத்து வந்து இங்கே விடவும் (drag and drop)
+common_or,அல்லது
+common_browse,இனையதள பயன்பாடு
+common_to_choose_file,ஒரு கோப்பை தேர்வு செய்யுங்கள்
+common_start,தொடங்கள்
+document_types_bank_statement,வங்கி ஆவணம் (bank statement)
+document_types_loan_statement,கடன் ஆவணம் (loan statement)
+document_types_credit_card_statement,கடன் அட்டை ஆவணம் (credit card statement)
+document_types_utility_bill,பயன்பாட்டு வில்
+document_types_driver_license,வாகன ஓட்டுனர் உரிமம்
+document_types_passport,கடவுச்சீட் & பாஸ்போட்
+document_types_national_id,தேசிய ஐடி
+document_types_pr_card,நிரந்தர வதிவிட அட்டை
+level_level1_title,நிலை 1 சரிபார்ப்பு
+level_level1_message,தேவையான அனைத்து படிகளையும் முடிக்கவும். இந்த நிலை சரிபார்ப்பு உங்களை {{daily_limit}} CAD தினசரி அல்லது {{monthly_limit} CAD மாதத்திற்கு அனுப்ப அனுமதிக்கிறது.
+level_level2_title,இரண்டாவது முறையான உறுதிப்படுத்துதல்
+level_level2_message,தேவையான அனைத்து படிகளையும் முடிக்கவும். இந்த நிலை சரிபார்ப்பு உங்களை {{daily_limit}} CAD தினசரி அல்லது {{monthly_limit} CAD மாதத்திற்கு அனுப்ப அனுமதிக்கிறது.
+level_level3_title,நிலை 3 சரிபார்ப்பு
+level_level3_message,இந்த நிலை சரிபார்ப்பு உங்களை {{daily_limit}} CAD தினசரி அல்லது {{monthly_limit} CAD மாதத்திற்கு அனுப்ப அனுமதிக்கிறது.
+level_level4_title,நிலை 4 சரிபார்ப்பு
+level_level4_message,தேவையான அனைத்து படிகளையும் முடிக்கவும். இந்த நிலை சரிபார்ப்பு உங்களை {{daily_limit}} CAD தினசரி அல்லது {{monthly_limit} AD CAD மாதத்திற்கு அனுப்ப அனுமதிக்கிறது.
+level_go_to_main_menu,பிரதான & மெய்ன் மெனுவுக்குச் செல்லவும்
+level_send_money,பணம் அனுப்பவும்
+level_go_next_level,நிலை சரிபார்ப்புக்குச் செல்லவும்
+levels_verification_limits,உறுதிப்படுத்துதலும் அனுப்பும் அளவும் (verification and limits)
+levels_highest_level_security,உங்கள் பாதுகாப்புக்கும் மற்றும் சட்ட காரணகளுக்காகவும் நீங்கள் உங்களை உறுதிப்படுத்த வேண்டும்
+levels_you_almost_there,நீங்கள் கடைசி இடத்துக்கு வந்து விட்டிர்கள்
+levels_complete_verification_and_transaction_will_release,"நிலைசரிபார்ப்பை முடிக்கவும், உங்கள் பரிவர்த்தனை தானாகவே முடிக்கப்படும்."
+levels_got_it,சரி
+levels_level,நிலை
+levels_daily_limit,தினசரி வரம்பு
+levels_monthly_limit,மாத வரம்பு
+levels_coming_soon,விரைவில்
+levels_start,தொடங்கு
+fields_personal_info_title,தனிப்பட்ட தகவல்
+fields_personal_info_message,"தயவுசெய்து, உங்களுக்கு தனிப்பட்ட தகவல்களை எங்களுக்கு வழங்கவும், எனவே உங்கள் அடையாளத்தை நாங்கள் சரிபார்க்க முடியும், மேலும் உங்கள் பணம் மற்றும் தரவு பாதுகாப்பின் மிக உயர்ந்த மட்டத்தை வழங்க முடியும்."
+fields_personal_info_fill_personal_info,தனிப்பட்ட தகவலை நிரப்பவும்
+fields_personal_info_personal_info_dialog_title,உங்களை பற்றி கொஞ்சம் சொல்லுங்கள் (about you)
+fields_personal_info_personal_info_dialog_section_personalinfo,உங்கள் தனிப்பட்ட தகவல்
+fields_personal_info_personal_info_dialog_section_address,உங்கள் முகவரி
+fields_personal_info_personal_info_dialog_section_occupation_industry,உங்கள் வேலை என்ன
+fields_personal_info_successfully_submitted,உங்கள் தனிப்பட்ட தகவல்கள் வெற்றிகரமாக சமர்ப்பிக்கப்பட்டன
+fields_personal_info_occupation,உங்கள் வேலை என்ன
+fields_personal_info_first_name,முதல் பெயர்(First name)
+fields_personal_info_last_name,அப்பாவின் பெயர் (Last name)
+fields_personal_info_date_of_birth,உங்கள் பிறந்த தேதி என்ன (your date of birth)
+fields_personal_info_address,முகவரி
+fields_personal_info_unit_number,யுனிட் நம்பர் (விரும்பினால்)
+fields_personal_info_province,மாகாணம்
+fields_personal_info_city,உங்கள் நகரத்தின் பெயர்
+fields_personal_info_postal_code,அஞ்சல் குறியீடு ( Postal code )
+fields_personal_info_country,நாடு
+fields_personal_info_postal_code_error,சரியான அஞ்சல் குறியீட்டை உள்ளிடவும்
+fields_personal_info_phone_number,தொலைபேசி இலக்கம்
+fields_phone_verification_title,தொலைபேசி எண் சரிபார்ப்பு
+fields_phone_verification_message,"தயவுசெய்து, உங்களுடைய தொலைபேசி எண்ணை எங்களுக்கு வழங்கவும், எனவே உங்கள் பணம் மற்றும் தரவு பாதுகாப்பின் மிக உயர்ந்த நிலையை வழங்க அதை நாங்கள் சரிபார்க்க முடியும்"
+fields_phone_verification_start_phone_number_verification,தொலைபேசி எண் சரிபார்ப்பைத் தொடங்கவும்
+fields_phone_verification_successfully_verified_title,உங்கள் சரிபார்ப்புக்கு நன்றி
+fields_phone_verification_successfully_verified_message,உங்கள் தொலைபேசி எண் வெற்றிகரமாக சரிபார்க்கப்பட்டது.
+fields_email_verification_title,மின்னஞ்சல் சரிபார்ப்பு
+fields_email_verification_message,உங்கள் கணக்கைச் செயல்படுத்த உங்கள் மின்னஞ்சல் முகவரியைச் சரிபார்க்கவும்.
+fields_email_verification_re_send_email,மின்னஞ்சல் மீண்டும் அனுப்பவும்
+fields_email_verification_successfully_verified_title,மின்னஞ்சல் அனுப்பப்பட்டது
+fields_email_verification_successfully_verified_message,சரிபார்ப்பு மின்னஞ்சல் உங்கள் மின்னஞ்சல் முகவரிக்கு வெற்றிகரமாக அனுப்பப்பட்டது
+fields_email_verification_dialog_txt_label,தயவுசெய்து உங்கள் மின்னஞ்சல் முகவரியை உள்ளிடவும்
+fields_email_verification_send_verification_email,சரிபார்ப்பு மின்னஞ்சல் அனுப்பவும்
+fields_employment_verification_title,வேலைவாய்ப்பு தகவல்
+fields_employment_verification_message,"உங்களிடம் சட்டபூர்வமான வருமான ஆதாரம் இருப்பதை உறுதிப்படுத்த, உங்கள் வேலைவாய்ப்பு குறித்து எங்களுக்கு கூடுதல் தகவல்கள் தேவை. எல்லா தகவல்களும் பாதுகாக்கப்படும், யாருடனும் பகிரப்படாது."
+fields_employment_verification_re_send_email,மின்னஞ்சல் மீண்டும் அனுப்பவும்
+fields_employment_verification_successfully_verified_title,சமர்ப்பித்ததற்கு நன்றி!
+fields_employment_verification_successfully_verified_message,"உங்கள் தகவல் வெற்றிகரமாக செயலாக்கப்பட்டது, அடுத்த 24 மணி நேரத்தில் எங்கள் ஆதரவு குழு அதை சரிபார்க்கும்."
+fields_employment_verification_dialog_message,"தயவுசெய்து, உங்கள் வேலைவாய்ப்பு தகவல்களை எங்களுக்கு வழங்கவும், இதனால் உங்கள் பணம் பாதுகாப்பாக இருப்பதை நாங்கள் உறுதிப்படுத்த முடியும்."
+fields_employment_verification_dialog_txt_label,தயவுசெய்து உங்கள் மின்னஞ்சல் முகவரியை உள்ளிடவும்
+fields_employment_verification_fill_information,தகவலை நிரப்புக
+fields_document_verification_address_proof,முகவரி சான்று
+fields_document_verification_address_proof_message,"தயவுசெய்து, உங்கள் பயன்பாட்டு பில்களில் ஒன்றை PDF அல்லது டிஜிட்டல் ஸ்கிரீன்ஷாட் வடிவத்தில் பதிவேற்றவும். ஹைட்ரோ, எரிவாயு, நீர், இணையம் அல்லது மொபைல் போன் பில்களை நாங்கள் ஏற்றுக்கொள்கிறோம். உங்கள் வீட்டு முகவரி மற்றும் தனிப்பட்ட தகவல்கள் மசோதாவில் இருப்பதை உறுதிப்படுத்திக் கொள்ளுங்கள்."
+fields_document_verification_bank_proof,உங்கள் வங்கியை உறுதிப்படுத்துதல்
+fields_document_verification_bank_proof_message,"தயவுசெய்து, உங்கள் வங்கி அறிக்கைகளில் ஒன்றை PDF அல்லது டிஜிட்டல் ஸ்கிரீன்ஷாட் வடிவத்தில் பதிவேற்றவும். உங்கள் வீட்டு முகவரி மற்றும் தனிப்பட்ட தகவல்கள் மசோதாவில் இருப்பதை உறுதிப்படுத்திக் கொள்ளுங்கள்."
+fields_document_verification_birth_proof,பிறந்த தேதிக்கான சான்று
+fields_document_verification_birth_proof_message,"தயவுசெய்து, உங்கள் பிறந்த தேதியைக் கொண்ட அதிகாரப்பூர்வ ஆவணத்தின் புகைப்படத்தைப் பதிவேற்றவும். அரசாங்கத்தால் வழங்கப்பட்ட ஓட்டுநர் உரிமம், புகைப்பட அட்டை, சுகாதார அட்டை, பி.ஆர் கார்டு அல்லது பாஸ்போர்ட்டின் புகைப்படத்தை நீங்கள் எடுக்கலாம். எல்லா தகவல்களும் தெரியும் என்பதையும் புகைப்படத்திற்கு நல்ல தரம் இருப்பதையும் உறுதிப்படுத்திக் கொள்ளுங்கள்."
+fields_document_verification_tax_proof,வரி தகவல்
+fields_document_verification_tax_proof_message,"தயவுசெய்து, முந்தைய ஆண்டிலிருந்து உங்கள் T4 அறிக்கையின் PDF நகலைப் பதிவேற்றவும்."
+fields_document_verification_tax_proof_dialog_title,வரி தகவல்களை பதிவேற்றவும் T4
+fields_document_verification_tax_proof_dialog_message,"தயவுசெய்து, முந்தைய ஆண்டிலிருந்து உங்கள் T4 அறிக்கையின் PDF நகலைப் பதிவேற்றவும்."
+fields_document_verification_id_proof,உங்கள் ஐடியின் புகைப்படம்
+fields_document_verification_id_proof_message,உங்கள் படம் இருக்கும் ஒரு அரச அடையாள அட்டயை பதிவேற்றம் செய்யுங்கள்
+fields_document_verification_id_proof_dialog_message,"தயவுசெய்து, உங்கள் ஐடியின் புகைப்படத்தை எங்களுக்கு வழங்கவும். எல்லா தகவல்களும் தெளிவாகத் தெரியும் மற்றும் படிக்கக்கூடியவை என்பதை உறுதிப்படுத்திக் கொள்ளுங்கள்."
+fields_document_verification_selfie_id_proof,ஐடியுடன் செல்பி
+fields_document_verification_selfie_id_proof_message,"தயவுசெய்து, உங்கள் வலை கேமராவைப் பயன்படுத்தி உங்கள் ஐடியுடன் செல்பி எடுத்துக் கொள்ளுங்கள். உங்கள் சாதனத்தில் வலை கேமரா இல்லையென்றால், உங்கள் தொலைபேசி அல்லது டேப்லெட்டிலிருந்து இந்த படிநிலையை முடிக்க முடியும். எல்லா தகவல்களும், உங்கள் முகமும் தெரியும் என்பதை உறுதிப்படுத்திக் கொள்ளுங்கள், மேலும் புகைப்படத்தில் நல்ல தரம் உள்ளது."
+fields_document_verification_selfie_id_proof_dialog_message,"தயவுசெய்து, உங்கள் ஐடியுடன் செல்பி செய்யுங்கள். உங்கள் ஐடி உங்கள் முகத்திற்கு அருகில் இருப்பதையும், அனைத்து தகவல்களும் தெளிவாகக் காணக்கூடியதாகவும் படிக்கக்கூடியதாகவும் இருப்பதை உறுதிசெய்க."
+fields_document_verification_select_type_document,எப்படிப்பட்ட ஆவணத்தை பதிவேற்றம் செய்ய போகின்றிர்கள்
+fields_document_verification_upload_utility_bill_title,பயன்பாட்டு மசோதா பதிவேற்ற
+fields_document_verification_upload_utility_bill_message,உங்கள் பயன்பாட்டு பில்கள் எதையும் PDF வடிவத்தில் பதிவேற்றவும்.
+fields_document_verification_upload_pay_stub_title,பே ஸ்டப் பதிவேற்றவும்
+fields_document_verification_upload_pay_stub_message,தயவுசெய்து உங்கள் சம்பள ஸ்டப் எதையும் PDF வடிவத்தில் பதிவேற்றவும்.
+fields_document_verification_upload_bank_statement_title,வங்கி அறிக்கையை பதிவேற்றவும்
+fields_document_verification_upload_bank_statement_message,உங்கள் வங்கி அறிக்கைகள் எதையும் PDF வடிவத்தில் பதிவேற்றவும்.
+fields_document_verification_upload_loan_statement_title,கடன் அறிக்கையை பதிவேற்றவும்
+fields_document_verification_upload_loan_statement_message,உங்கள் கடன் அறிக்கைகளில் ஏதேனும் ஒன்றை PDF வடிவத்தில் பதிவேற்றவும்.
+fields_document_verification_upload_credit_card_statement_title,கடன் அட்டை ஆவணம் பதிவேற்றம் செய்யவும்
+fields_document_verification_upload_credit_card_statement_message,உங்கள் கிரெடிட் கார்டு அறிக்கையின் நகலை எங்களுக்கு வழங்கவும். நீங்கள் அதைப் படம் எடுக்கலாம் அல்லது ஒரு கோப்பை PDF வடிவத்தில் பதிவேற்றலாம்.
+fields_document_verification_upload_birth_cert_title,பிறப்புச் சான்றிதழைப் பதிவேற்றுக
+fields_document_verification_upload_birth_cert_message,உங்கள் பிறப்புச் சான்றிதழை PDF வடிவத்தில் பதிவேற்றவும்.
+fields_document_verification_upload_marriage_cert_title,திருமண சான்றிதழை பதிவேற்றவும்
+fields_document_verification_upload_marriage_cert_message,உங்கள் திருமண சான்றிதழை PDF வடிவத்தில் பதிவேற்றவும்.
+fields_document_verification_upload_pr_card_title,நிரந்தர வதிவிட அட்டையை பதிவேற்றவும்
+fields_document_verification_upload_pr_card_message,உங்கள் நிரந்தர வதிவிட அட்டையை PDF வடிவத்தில் பதிவேற்றவும்.
+fields_document_verification_upload_driver_license_title,ஓட்டுநர் உரிமத்தைப் பதிவேற்றுக
+fields_document_verification_upload_driver_license_message,உங்கள் டிரைவர் உரிமத்தை PDF வடிவத்தில் பதிவேற்றவும்.
+fields_document_verification_upload_temp_driver_license_title,தற்காலிக ஓட்டுநர் உரிமத்தைப் பதிவேற்றுக
+fields_document_verification_upload_temp_driver_license_message,உங்கள் தற்காலிக ஓட்டுநர் உரிமத்தை PDF வடிவத்தில் பதிவேற்றவும்.
+fields_document_verification_upload_travel_visa_title,பயண விசாவை பதிவேற்றவும்
+fields_document_verification_upload_travel_visa_message,உங்கள் பயண விசாவை PDF வடிவத்தில் பதிவேற்றவும்.
+fields_document_verification_upload_passport_title,பாஸ்போர்ட்டை பதிவேற்றுக
+fields_document_verification_upload_passport_message,உங்கள் பாஸ்போர்ட்டை PDF வடிவத்தில் பதிவேற்றவும்.
+fields_document_verification_upload_citizenship_cert_title,குடியுரிமை சான்றிதழைப் பதிவேற்றுக
+fields_document_verification_upload_citizenship_cert_message,உங்கள் குடியுரிமை சான்றிதழை PDF வடிவத்தில் பதிவேற்றவும்.
+fields_document_verification_successfully_uploaded,உங்கள் ஆவணம் வெற்றிகரமாக பதிவேற்றப்பட்டது. எங்கள் ஆதரவு குழு அதை மதிப்பாய்வு செய்து அங்கீகரிக்க 24 மணிநேரம் ஆகலாம். இது செயலாக்கப்பட்டதும் நாங்கள் உங்களுக்கு அறிவிப்போம்.
+fields_pin_to_address_title,முகவரிக்கு பாதுகாப்பு குறியீடு
+fields_pin_to_address_message,"உங்கள் உண்மையான குடியிருப்பு முகவரியை சரிபார்க்க, உங்கள் ஐடியில் குறிப்பிடப்பட்டுள்ள முகவரிக்கு சிறப்பு பின் குறியீட்டைக் கொண்ட ஒரு கடிதத்தை அனுப்புவோம். இது வழங்கப்படுவதற்கு 4 நாட்கள் வரை ஆகலாம்."
+fields_pin_to_address_sub_message,"நீங்கள் பின் குறியீட்டைப் பெற்றவுடன், நீங்கள் கோரிக்கையை அனுப்பிய பின் தோன்றும் புலத்தில் அதை உள்ளிடவும்."
+fields_pin_to_address_pending_message,"கோப்பில் உள்ள உங்கள் முகவரிக்கு பாதுகாப்பு குறியீட்டைக் கொண்ட ஒரு இமெயிலை நாங்கள் உங்களுக்கு அனுப்பியுள்ளோம். நீங்கள் அதை {countDownValue} பெற வேண்டும். நீங்கள் அதைப் பெற்றதும், கீழே உள்ள குறியீட்டைச் சமர்ப்பிக்கவும்."
+fields_pin_to_address_pending_message_time_expired,"கோப்பில் உள்ள உங்கள் முகவரிக்கு பாதுகாப்பு குறியீட்டைக் கொண்ட ஒரு மெயிலை நாங்கள் உங்களுக்கு அனுப்பியுள்ளோம். நீங்கள் அதைப் பெற்றதும், கீழே உள்ள குறியீட்டைச் சமர்ப்பிக்கவும்."
+fields_pin_to_address_send_request,கோரிக்கையை அனுப்பவும்
+fields_pin_to_address_request_received,உங்கள் கோரிக்கை பெறப்பட்டது!
+fields_pin_to_address_letter_was_sent,உங்கள் முகவரிக்கு 6 இலக்க பின் (PIN ) உடன் ஒரு கடிதத்தை அனுப்புகிறோம்:
+fields_pin_to_address_once_letter_received,"நீங்கள் அதைப் பெற்றவுடன், உங்கள் டாஷ்போர்டில் உள்ள இணைப்பைப் பயன்படுத்தி அல்லது நிலை 3 சரிபார்ப்பு மூலம் PIN ஐ உள்ளிடவும்."
+fields_pin_to_address_pin_verified_title,உங்கள் சரிபார்ப்புக்கு நன்றி
+fields_pin_to_address_pin_verified_message,உங்கள் செயல்பாடு வெற்றிகரமாக சரிபார்க்கப்பட்டது.
+fields_pin_to_address_pin_code_txt_label,பாதுகாப்பு குறியீட்டை உள்ளிடவும்
+fields_pin_to_address_submit_code,குறியீட்டைச் சமர்ப்பிக்கவும்
+groups_personality_verification_title,ஆளுமை சரிபார்ப்பு
+groups_personality_verification_message,"நிலை 3 சரிபார்ப்பை முடிக்க, உங்கள் அனுப்பும் வரம்புகளை அதிகரிக்க நாங்கள் உங்களிடமிருந்து சில கூடுதல் தகவல்களைப் பெற வேண்டும். எல்லா தரவும் புகைப்படங்களும் பாதுகாக்கப்படும், வேறு எந்த மூன்றாம் தரப்பு நிறுவனங்களுடனும் பகிரப்படாது."
+groups_personality_verification_time,96 மணி நேரம் ஆகலாம்
+groups_employment_verification_title,வேலை சரிபார்ப்பு
+groups_employment_verification_message,"நிலை 3 சரிபார்ப்பை முடிக்க, உங்கள் அனுப்பும் வரம்புகளை அதிகரிக்க நாங்கள் உங்களிடமிருந்து சில கூடுதல் தகவல்களைப் பெற வேண்டும். எல்லா தரவும் புகைப்படங்களும் பாதுகாக்கப்படும், வேறு எந்த மூன்றாம் தரப்பு நிறுவனங்களுடனும் பகிரப்படாது."
+groups_employment_verification_time,48 மணி நேரம் ஆகலாம்
+groups_videocall_verification_title,வீடியோ அழைப்பு சரிபார்ப்பு வழியாக உங்கள் ஐடியை சரிபார்க்கவும்
+groups_videocall_verification_message,"எங்கள் ஆதரவு முகவர்களில் ஒருவருடன் ஆன்லைன் வீடியோ அழைப்பு மூலம் உங்கள் நிலை 3 சரிபார்ப்பை முடிக்க முடியும். இந்த அழைப்புக்கு 10 நிமிடங்கள் ஆகலாம், மேலும் இணையம் மற்றும் கேமராவிற்கான உங்கள் அணுகல் தேவைப்படும். மேலும், சரிபார்ப்புக்கு உங்கள் ஐடி தயாராக உள்ளதா என்பதை உறுதிப்படுத்திக் கொள்ளுங்கள்."
+groups_videocall_verification_time,உடனடி சரிபார்ப்பு

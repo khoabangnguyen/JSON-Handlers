@@ -1,0 +1,88 @@
+{
+    "\ufeffsignup": "\u0d85\u0dc3\u0dca\u0dc3\u0dd9\u0db1\u0dca \u0d9a\u0dbb\u0db1\u0dca\u0db1",
+    "okay": "Okay",
+    "edit": "Edit",
+    "view": "View",
+    "person_label": "\u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0dcf",
+    "business_label": "\u0dc0\u0dca\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dd2\u0d9a",
+    "person_label_ben": "\u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0dcf",
+    "business_label_ben": "\u0dc0\u0dca\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dd2\u0d9a",
+    "continue": "\u0daf\u0dd2\u0d9c\u0da7\u0db8 \u0d9a\u0dbb\u0d9c\u0dd9\u0db1 \u0dba\u0db1\u0dca\u0db1",
+    "back": "Back",
+    "take_photo": "Take Photo",
+    "retake_photo": "Retake Photo",
+    "unblock_camera": "Please, unblock the camera access, by the Remitbee website, on your browser settings.",
+    "disconnected_inactivity": "Your account was disconnected due to inactivity",
+    "disconnected_phone": "Your account was disconnected due not saved phone number",
+    "rows_per_page": "Rows per page",
+    "of": "of",
+    "search": "Search",
+    "filter": "Filter",
+    "header_options": {
+        "refer_earn": "Refer & Earn",
+        "wallet": "Remitbee Wallet",
+        "help": "Help",
+        "login": "\u0d87\u0dad\u0dd4\u0dbd\u0dca \u0dc0\u0db1\u0dca\u0db1",
+        "signup": "Sign up"
+    },
+    "sidebar_options": {
+        "dashboard": "\u0d8b\u0db4\u0d9a\u0dbb\u0dab \u0db4\u0dd4\u0dc0\u0dbb\u0dd4\u0dc0",
+        "send_money": "\u0db8\u0dd4\u0daf\u0dbd\u0dca \u0dba\u0dc0\u0db1\u0dca\u0db1",
+        "wallet": "My Wallet",
+        "transactions": "Transactions",
+        "recipients": "Recipients",
+        "rewards": "Rewards",
+        "rates": "Rates"
+    },
+    "error": {
+        "not_allowed_remitbee_email": "\u0d8a\u0db8\u0dda\u0dbd\u0dca \u0dc3\u0db3\u0dc4\u0dcf remitbee \u0dc0\u0dc3\u0db8 \u0db7\u0dcf\u0dc0\u0dd2\u0dad\u0dcf \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0d85\u0dc0\u0dc3\u0dbb \u0db1\u0dd0\u0dad.",
+        "invalid_phone_number": "\u0d9a\u0dbb\u0dd4\u0dab\u0dcf\u0d9a\u0dbb \u0dc0\u0dbd\u0d82\u0d9c\u0dd4 \u0daf\u0dd4\u0dbb\u0d9a\u0dae\u0db1 \u0d85\u0d82\u0d9a\u0dba\u0d9a\u0dca \u0d87\u0dad\u0dd4\u0dc5\u0dad\u0dca \u0d9a\u0dbb\u0db1\u0dca\u0db1",
+        "not_allowed_whitespaces_first": "\u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dbd\u0dcf\u0db7\u0dd2\u0dba\u0dcf\u0d9c\u0dda \u0db8\u0dd4\u0dbd\u0dca \u0db1\u0db8 \u0dc4\u0dd2\u0dc3\u0dca \u0dc0\u0dd2\u0dba \u0db1\u0ddc\u0dc4\u0dd0\u0d9a",
+        "not_allowed_whitespaces_last": "\u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dbd\u0dcf\u0db7\u0dd2\u0dba\u0dcf\u0d9c\u0dda \u0d85\u0dc0\u0dc3\u0dcf\u0db1 \u0db1\u0db8 \u0dc4\u0dd2\u0dc3\u0dca \u0dc0\u0dd2\u0dba \u0db1\u0ddc\u0dc4\u0dd0\u0d9a",
+        "not_allowed_whitespaces_company": "\u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0dda \u0db1\u0db8 \u0dc4\u0dd2\u0dc3\u0dca \u0dc0\u0dd2\u0dba \u0db1\u0ddc\u0dc4\u0dd0\u0d9a"
+    },
+    "currency": {
+        "cad": "CAD"
+    },
+    "eft_selection_list": {
+        "select_bank_account": "Select bank account",
+        "add_new_bank_account": "Add new bank account +"
+    },
+    "cus_sending_limit": {
+        "max_month_sending_limit": "You have reached your maximum monthly sending limit.",
+        "max_day_sending_limit": "You have reached your maximum daily sending limit.",
+        "day_limit_available": "Your daily sending limit available is {{dailyLimit}} CAD.",
+        "month_limit_available": "Your monthly sending limit available is {{monthlyLimit}} CAD.",
+        "max_day_limit_available": "The maximum daily amount that you can send is {{maxDailyLimit}} CAD",
+        "max_month_limit_available": "The maximum monthly amount that you can send is {{maxMonthlyLimit}} CAD",
+        "sending_amount_requires": "This send amount requires",
+        "min_sending_amount": "Minimum sending amount is 10 CAD",
+        "select_other_receiving_method": "Select other receiving method",
+        "choose_receiving_method": "Choose the receiving method",
+        "amount_requires_level_upgrade": "This send amount requires",
+        "level_n_verification": "level {{level}} verification"
+    },
+    "choose_your_bank": "Choose your bank",
+    "agree": "Agree",
+    "disagree": "Disagree",
+    "free": "Free",
+    "field_required": "Field Required",
+    "content_not_available": "Sorry, this content is currently unavailable.",
+    "blog": "Blog",
+    "menu": "Menu",
+    "search_articles": "Search articles...",
+    "news": "News",
+    "finances": "Finances",
+    "money_transfer": "Money Transfer",
+    "how_to": "How to",
+    "leave_review": "Leave a review",
+    "sorted_descending": "sorted descending",
+    "sorted_ascending": "sorted ascending",
+    "validation": {
+        "required": "Required",
+        "email": "Invalid Email",
+        "min": "Must have at least {{value}} characters",
+        "max": "Must have at most {{value}} characters",
+        "length": "Field must have {{value}} characters"
+    }
+}

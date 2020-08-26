@@ -1,0 +1,29 @@
+{
+    "\ufeffpage_title": "Sign Up | Remitbee Online Money Transfer",
+    "page_description": "Join Remitbee to send money from Canada to 40+ countries across the globe. Sign up today and get your free account to transfer money without fees!",
+    "no_code": "No code? Resend in {{seconds}} sec",
+    "enter_verification_code": "Enter your verification code",
+    "enter_six_digit_code": "\u0d94\u0db6\u0da7 \u0d9a\u0dd9\u0da7\u0dd2 \u0db4\u0dab\u0dd2\u0dc0\u0dd4\u0da9 \u0db8\u0d9c\u0dd2\u0db1\u0dca \u0dbd\u0dd0\u0db6\u0dd4\u0dab\u0dd4 \u0d85\u0d82\u0d9a 6 \u0d9a\u0dd2\u0db1\u0dca \u0dba\u0dd4\u0dad\u0dca \u0d9a\u0dda\u0dad\u0dba\u0d9a\u0dca \u0d87\u0dad\u0dd4\u0dc5\u0dad\u0dca \u0d9a\u0dbb\u0db1\u0dca\u0db1",
+    "verify_code": "\u0dad\u0dc4\u0dc0\u0dd4\u0dbb\u0dd4 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dda \u0d9a\u0dda\u0dad\u0dba",
+    "lets_verify_phonenumber": "\u0d94\u0db6\u0d9c\u0dda \u0daf\u0dd4\u0dbb\u0d9a\u0dae\u0db1 \u0d85\u0d82\u0d9a\u0dba \u0dc3\u0dad\u0dca\u200d\u0dba\u0dcf\u0db4\u0db1\u0dba \u0d9a\u0dbb\u0db8\u0dd4",
+    "enter_canadian_number": "\u0d94\u0db6\u0d9c\u0dda \u0d9a\u0dd0\u0db1\u0dda\u0da9\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0daf\u0dd4\u0dbb\u0d9a\u0dae\u0db1 \u0d85\u0d82\u0d9a\u0dba \u0d87\u0dad\u0dd4\u0dc5\u0dad\u0dca \u0d9a\u0dbb\u0db1\u0dca\u0db1",
+    "check_phone_number": "Check your phone number",
+    "will_verify_phonenumber": "We will verify the phone number",
+    "would_like_edit_phonenumber": "Is this Ok, or would you like to edit the number?",
+    "send_code": "Send Code",
+    "resend": "\u0db1\u0dd0\u0dc0\u0dad \u0dba\u0dc0\u0db1\u0dca\u0db1",
+    "skip": "Skip",
+    "password_regex_error": "Password must have at least one lowercase and one uppercase character.",
+    "welcome_msg": "Remitbee \u0dc3\u0dcf\u0daf\u0dbb\u0dba\u0dd9\u0db1\u0dca \u0db4\u0dd2\u0dc5\u0dd2\u0d9c\u0db1\u0dd2\u0db8\u0dd4",
+    "lets_setup": "\u0d94\u0db6\u0d9c\u0dda \u0db1\u0ddc\u0db8\u0dd2\u0dbd\u0dda \u0d9c\u0dd2\u0dab\u0dd4\u0db8 \u0dc3\u0d9a\u0dc3\u0dca \u0d9a\u0dbb\u0db8\u0dd4",
+    "already_have_account": "\u0dbd\u0dd2\u0dba\u0dcf\u0db4\u0daf\u0dd2\u0d82\u0da0\u0dd2 \u0dc0\u0db1\u0dca\u0db1 \u0daf\u0dd0\u0db1\u0da7\u0db8\u0dad\u0dca \u0d9c\u0dd2\u0dab\u0dd4\u0db8\u0d9a\u0dca \u0dad\u0dd2\u0db6\u0dda\u0daf?",
+    "referral_code": "\u0dba\u0ddc\u0db8\u0dd4 \u0d9a\u0dda\u0dad\u0dba\u0d9a\u0dca \u0dad\u0dd2\u0db6\u0dda\u0daf?",
+    "refer_code_label": "Referral Code",
+    "refer_code_cancel": "\u0d85\u0dc0\u0dbd\u0d82\u0d9c\u0dd4 \u0d9a\u0dbb\u0db1\u0dca\u0db1",
+    "invalid_code": "\u0d85\u0dc0\u0dbd\u0d82\u0d9c\u0dd4 \u0d9a\u0dda\u0dad\u0dba",
+    "something_went_wrong": "\u0db8\u0ddc\u0d9a\u0d9a\u0dca\u0dc4\u0dbb\u0dd2 \u0dc0\u0dd0\u0dbb\u0dd0\u0daf\u0dca\u0daf\u0d9a\u0dca \u0dc0\u0dd9\u0dbd\u0dcf.",
+    "email_already_in_use": "Email already in use",
+    "it_is_not_allowed_to_use_remitbee_domain_in_emails": {
+        "": "It is not allowed to use Remitbee domain in emails"
+    }
+}

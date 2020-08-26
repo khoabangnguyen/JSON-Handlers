@@ -1,0 +1,32 @@
+﻿account_details,வங்கிக் கணக்கு விவரம்
+account_information_successfully_updated,வங்கிக் கணக்கு தகவல் வெற்றிகரமாக புதுப்பிக்கப்பட்டது
+address,முகவரி
+address_complement,யூனிட் / சுட்டி
+city,உங்கள் நகரத்தின் பெயர்
+contact_information,தொடர்பு தகவல்
+contact_us,எங்களை தொடர்பு கொள்ள
+country,நாடு
+date_of_birth,உங்கள் பிறந்த தேதி என்ன (your date of birth)
+email_address,மின்னஞ்சல் முகவரி
+first_name,முதல் பெயர்(First name)
+industry,தொழில்
+last_name,அப்பாவின் பெயர் (Last name)
+occupation,உங்கள் வேலை என்ன
+once_your_personal_details,"உங்கள் தனிப்பட்ட விவரங்கள் சரிபார்க்கப்பட்டதும்,நீங்கள் அவற்றை மாற்ற முடியாது.உங்கள் கணக்கு தகவலை மாற்ற வேண்டுமானால், தயவுசெய்து"
+personal_details,சொந்த விவரங்கள்
+please_update_your_occupation,உங்கள் வேலைவாய்ப்பில் ஏதேனும் மாற்றங்கள் இருந்தால் உங்கள் தொழில் மற்றும் தொழில் தகவல்களைப் புதுப்பிக்கவும்.
+phone_number,தொலைபேசி இலக்கம்
+phone_number2,இரண்டாவது தொடர்பு எண்
+postal_code,போஸ்ரல் கோட்
+province,மாகாணம்
+save_changes,மாற்றங்களை சேமியுங்கள்
+start_typing_address,உங்கள் முகவரியைத் தட்டச்சு செய்யத் தொடங்குங்கள் ..
+street_address,உங்கள் தெருவின் பெயர் என்ன (street name)
+type_your_occupation,உங்கள் தொழிலைத் பதிவு செய்க
+verify_phone,உங்கள் தொலைபேசி எண்ணைச் சரிபார்க்கவும்
+your_address,உங்கள் முகவரி
+your_ocupation,உங்கள் தொழில்
+postal_code_error,சரியான அஞ்சல் குறியீட்டை உள்ளிடவும்
+email_error,சரியான மின்னஞ்சலை உள்ளிடவும்.
+contact_error,சரியான தொலைபேசி எண்ணை உள்ளிடவும்
+not_loaded,ஏற்றப்படவில்லை

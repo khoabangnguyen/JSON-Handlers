@@ -1,0 +1,25 @@
+﻿page_title,Sign Up | Remitbee Online Money Transfer
+page_description,Join Remitbee to send money from Canada to 40+ countries across the globe. Sign up today and get your free account to transfer money without fees!
+no_code,No code? Resend in {{seconds}} sec
+enter_verification_code,Enter your verification code
+enter_six_digit_code,ඔබට කෙටි පණිවුඩ මගින් ලැබුණු අංක 6 කින් යුත් කේතයක් ඇතුළත් කරන්න
+verify_code,තහවුරු කිරීමේ කේතය
+lets_verify_phonenumber,ඔබගේ දුරකථන අංකය සත්‍යාපනය කරමු
+enter_canadian_number,ඔබගේ කැනේඩියානු දුරකථන අංකය ඇතුළත් කරන්න
+check_phone_number,Check your phone number
+will_verify_phonenumber,We will verify the phone number
+would_like_edit_phonenumber,"Is this Ok, or would you like to edit the number?"
+send_code,Send Code
+resend,නැවත යවන්න
+skip,Skip
+password_regex_error,Password must have at least one lowercase and one uppercase character.
+welcome_msg,Remitbee සාදරයෙන් පිළිගනිමු
+lets_setup,ඔබගේ නොමිලේ ගිණුම සකස් කරමු
+already_have_account,ලියාපදිංචි වන්න දැනටමත් ගිණුමක් තිබේද?
+referral_code,යොමු කේතයක් තිබේද?
+refer_code_label,Referral Code
+refer_code_cancel,අවලංගු කරන්න
+invalid_code,අවලංගු කේතය
+something_went_wrong,මොකක්හරි වැරැද්දක් වෙලා.
+email_already_in_use,Email already in use
+it_is_not_allowed_to_use_remitbee_domain_in_emails.,It is not allowed to use Remitbee domain in emails

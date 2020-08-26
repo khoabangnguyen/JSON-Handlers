@@ -1,0 +1,70 @@
+﻿signup,இணையுங்கள்
+okay,சரி & ஓகே
+edit,தொகு & எடிட்
+view,பார்க்கவும்
+person_label,உங்களுக்கு
+business_label,அல்லது உங்கள் நிறுவனத்துக்கு
+continue,அடுத்தது
+back,மீண்டும் & பின்செல்
+take_photo,புகைப்படம் எடுக்கவும்
+retake_photo,புகைப்படத்தை மீண்டும் எடுக்கவும்
+unblock_camera,"தயவுசெய்து, உங்கள் இனையதள அமைப்புகளில், ரெமிட்பீ வலைத்தளத்தின் மூலம் கேமரா அணுகலைத் தடைசெய்க."
+disconnected_inactivity,செயலற்ற தன்மை காரணமாக உங்கள் கணக்கு துண்டிக்கப்பட்டது
+disconnected_phone,தொலைபேசி எண் சேமிக்கப்படாததால் உங்கள் கணக்கு துண்டிக்கப்பட்டது
+rows_per_page,ஒரு பக்கத்திற்கு வரிசைகள்
+of,ஓஃப்
+search,தேடல்
+filter,வடிகட்டி
+header_options_refer_earn,பார்க்கவும் சம்பாதிக்கவும்
+header_options_wallet,ரெமிட்பீ வாலிட்
+header_options_help,உதவி
+header_options_login,உள்நுழைய
+header_options_signup,இணையுங்கள்
+sidebar_options_dashboard,முகப்பு
+sidebar_options_send_money,பணம் அனுப்பவும்
+sidebar_options_wallet,உங்கள் வாலிட்
+sidebar_options_transactions,பரிவர்த்தனைகள்
+sidebar_options_recipients,பெறுபவர்கள் & பெறுநர்கள்
+sidebar_options_rewards,வெகுமதிகள்
+sidebar_options_rates,விலை & விகிதங்கள்
+error_not_allowed_remitbee_email,மின்னஞ்சல்களுக்கு ரெமிட்பீ களத்தைப் பயன்படுத்த இது அனுமதிக்கப்படவில்லை
+error_invalid_phone_number,செல்லுபடியாகும் தொலைபேசி எண்ணை உள்ளிடவும்
+error_not_allowed_whitespaces_first,பயனாளியின் முதல் பெயர் காலியாக இருக்க முடியாது
+error_not_allowed_whitespaces_last,பயனாளியின் கடைசி பெயர் காலியாக இருக்க முடியாது
+error_not_allowed_whitespaces_company,நிறுவனத்தின் பெயர் காலியாக இருக்க முடியாது
+currency_cad,அட்டை
+eft_selection_list_select_bank_account,வங்கி கணக்கைத் தேர்ந்தெடுக்கவும்
+eft_selection_list_add_new_bank_account,புதிய வங்கிக் கணக்கைச் சேர்க்கவும்
+cus_sending_limit_max_month_sending_limit,உங்கள் அதிகபட்ச மாதம் பணம் அனுப்பும் அனுமதி முடிந்துவிட்டது & மாதாந்திர அனுப்பும் வரம்பை நீங்கள் அடைந்துவிட்டீர்கள்.
+cus_sending_limit_max_day_sending_limit,உங்கள் அதிகபட்ச பணம் அனுப்புவதற்கான அனுமதி முடிந்துவிட்டது. & தினசரி அனுப்பும் வரம்பை அடைந்துவிட்டீர்கள்.
+cus_sending_limit_day_limit_available,உங்கள் தினசரி $ ( CAD ) பணம் அனுப்புவதற்கு அனுமதி உள்ளது.
+cus_sending_limit_month_limit_available,உங்கள் மாதம் $ ( CAD ) பணம் அனுப்புவதற்கு அனுமதி உள்ளது.
+cus_sending_limit_max_day_limit_available,நீங்கள் பணம் அனுப்பக்கூடிய அதிகபட்ச தினசரி தொகை $.
+cus_sending_limit_max_month_limit_available,நீங்கள் பணம் அனுப்பக்கூடிய அதிகபட்ச மாதம் தொகை $.
+cus_sending_limit_sending_amount_requires,அனுப்பும் தொகை தேவை
+cus_sending_limit_min_sending_amount,குறைந்தபட்சம் பணம் அனுப்பும் தொகை $10 & CAD
+cus_sending_limit_select_other_receiving_method,பணம் பெற்றுக்கொள்ளும் வேறு முறையைத் தேர்ந்தெடுக்கவும்.
+cus_sending_limit_choose_receiving_method,பெறும் முறையைத் தேர்வுசெய்க
+cus_sending_limit_amount_requires_level_upgrade,இந்த அனுப்பும் தொகை தேவை
+cus_sending_limit_level_n_verification,நிலை சரிபார்ப்பு
+choose_your_bank,நீங்கள் எந்த வங்கியில் இருந்து பணம் செலுத்த போகின்றிர்கள்?
+agree,ஒப்புக்கொள்கிறேன்
+disagree,கருத்து வேறுபாடு
+free,இலவசம்
+field_required,உன்கள் கருதை பதிவு செயுன்கள்
+content_not_available,"மன்னிக்கவும், இந்த உள்ளடக்கம் தற்போது கிடைக்கவில்லை."
+blog,வலைப்பதிவு
+menu,பட்டியல்
+search_articles,கட்டுரைகளைத் தேடுங்கள் ...
+news,செய்தி
+finances,நிதி
+money_transfer,பணம் பரிமாற்றம்
+how_to,எப்படி
+leave_review,ஒரு மதிப்பாய்வை விடுங்கள்
+sorted_descending,வரிசைப்படுத்தப்பட்ட முடிவு
+sorted_ascending,வரிசைப்படுத்தப்பட்ட ஏறுதல்
+validation_required,தேவை
+validation_email,தவறான மின்னஞ்சல்
+validation_min,குறைந்தது மதிப்பு எழுத்துக்களைக் கொண்டிருக்க வேண்டும்
+validation_max,அதிகபட்ச மதிப்புள்ள எழுத்துக்களைக் கொண்டிருக்க வேண்டும்
+validation_length,இடத்தில் மதிப்பு எழுத்துக்கள் இருக்க வேண்டும்

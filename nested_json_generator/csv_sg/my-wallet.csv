@@ -1,0 +1,60 @@
+﻿wallet_box_title,Your wallet balance
+wallet_id,Wallet ID
+wallet_box_transfer_button,Transfer
+wallet_box_deposit_button,Deposit
+wallet_box_link,Need a withdraw?
+title,Remitbee wallet
+history_table_title,Your wallet transactions
+history_table_header_date,Date
+history_table_header_description,Description
+history_table_header_amount,ප්‍රමානය
+history_table_header_status,Status
+history_table_header_total_balance,Total Balance
+history_table_header_details,Details
+history_table_row_item_view_details,View details
+chip_label,chipLabel
+date,Date:
+alt_amount,Amount:
+free,Free
+wallet_view_details_dialog.title,Wallet transaction details
+wallet_view_details_dialog.stepper_initiated,Initiated
+wallet_view_details_dialog.stepper_in_queue,In queue
+wallet_view_details_dialog.stepper_completed,Completed
+wallet_view_details_dialog.stepper_failed,Not approved
+wallet_view_details_dialog.transaction_id,Transaction ID
+wallet_view_details_dialog.payment_method,ගෙවීමේ ක්‍රමය
+wallet_view_details_dialog.transaction_status,Transaction status
+wallet_view_details_dialog.date_initiated,Date initiated
+wallet_view_details_dialog.date_completed,Date completed
+wallet_view_details_dialog.amount,ප්‍රමානය
+wallet_view_details_dialog.total_wallet_balance,Total wallet balance
+wallet_view_details_dialog.share_button,Share
+wallet_view_details_dialog.download_button,Download
+wallet_view_details_dialog.continue_button,දිගටම කරගෙන යන්න
+wallet_deposit_dialog.title,Choose the deposit method
+wallet_deposit_dialog.sub_title,Select a type of deposit you want to use for funding Remitbee wallet.
+wallet_deposit_dialog.switch_option_1,E-transfer
+wallet_deposit_dialog.switch_option_2,Bill payment
+wallet_deposit_dialog.banks_available,Available for:
+dialog.success_title,Your transaction was successfull
+dialog.failed_title,Your transaction was not completed
+dialog.failed_message,Please reach one of our customer service channels for more details.
+dialog.got_it,Got it
+dialog.instructions,Show the {{paymentTypeLabel}} instructions
+dialog.open_bank,Open bank website
+dialog.eft_success_message,Your funds should arrive in your wallet within 2 business days. We'll send you notification once its added.
+dialog.bill_payment_success_message,Your funds should arrive within 1 business day if you send it before 4pm EST. We'll send you a notification once its added.
+dialog.e_transfer_success_message,Once we receive your e-transfer it will be updated into your wallet. We'll send you a notification once its added usually within 1-4 hours.
+filter.status,Status
+filter.all,All
+filter.payment_types,Payment types
+filter.start_date,Start date
+filter.end_date,End date
+payment_types.bill_payment,Bill payment
+payment_types.debit,Debit
+payment_types.interact,Interact
+payment_types.interact_e-transfer,Interact E-Transfer
+payment_types.wallet,Wallet
+status.completed,Completed
+status.pending,Pending
+cad,CAD

@@ -1,0 +1,72 @@
+﻿signup,අස්සෙන් කරන්න
+okay,Okay
+edit,Edit
+view,View
+person_label,පුද්ගලයා
+business_label,ව්යාපාරික
+person_label_ben,පුද්ගලයා
+business_label_ben,ව්යාපාරික
+continue,දිගටම කරගෙන යන්න
+back,Back
+take_photo,Take Photo
+retake_photo,Retake Photo
+unblock_camera,"Please, unblock the camera access, by the Remitbee website, on your browser settings."
+disconnected_inactivity,Your account was disconnected due to inactivity
+disconnected_phone,Your account was disconnected due not saved phone number
+rows_per_page,Rows per page
+of,of
+search,Search
+filter,Filter
+header_options.refer_earn,Refer & Earn
+header_options.wallet,Remitbee Wallet
+header_options.help,Help
+header_options.login,ඇතුල් වන්න
+header_options.signup,Sign up
+sidebar_options.dashboard,උපකරණ පුවරුව
+sidebar_options.send_money,මුදල් යවන්න
+sidebar_options.wallet,My Wallet
+sidebar_options.transactions,Transactions
+sidebar_options.recipients,Recipients
+sidebar_options.rewards,Rewards
+sidebar_options.rates,Rates
+error.not_allowed_remitbee_email,ඊමේල් සඳහා remitbee වසම භාවිතා කිරීමට අවසර නැත.
+error.invalid_phone_number,කරුණාකර වලංගු දුරකථන අංකයක් ඇතුළත් කරන්න
+error.not_allowed_whitespaces_first,ප්‍රතිලාභියාගේ මුල් නම හිස් විය නොහැක
+error.not_allowed_whitespaces_last,ප්‍රතිලාභියාගේ අවසාන නම හිස් විය නොහැක
+error.not_allowed_whitespaces_company,සමාගමේ නම හිස් විය නොහැක
+currency.cad,CAD
+eft_selection_list.select_bank_account,Select bank account
+eft_selection_list.add_new_bank_account,Add new bank account +
+cus_sending_limit.max_month_sending_limit,You have reached your maximum monthly sending limit.
+cus_sending_limit.max_day_sending_limit,You have reached your maximum daily sending limit.
+cus_sending_limit.day_limit_available,Your daily sending limit available is {{dailyLimit}} CAD.
+cus_sending_limit.month_limit_available,Your monthly sending limit available is {{monthlyLimit}} CAD.
+cus_sending_limit.max_day_limit_available,The maximum daily amount that you can send is {{maxDailyLimit}} CAD
+cus_sending_limit.max_month_limit_available,The maximum monthly amount that you can send is {{maxMonthlyLimit}} CAD
+cus_sending_limit.sending_amount_requires,This send amount requires
+cus_sending_limit.min_sending_amount,Minimum sending amount is 10 CAD
+cus_sending_limit.select_other_receiving_method,Select other receiving method
+cus_sending_limit.choose_receiving_method,Choose the receiving method
+cus_sending_limit.amount_requires_level_upgrade,This send amount requires
+cus_sending_limit.level_n_verification,level {{level}} verification
+choose_your_bank,Choose your bank
+agree,Agree
+disagree,Disagree
+free,Free
+field_required,Field Required
+content_not_available,"Sorry, this content is currently unavailable."
+blog,Blog
+menu,Menu
+search_articles,Search articles...
+news,News
+finances,Finances
+money_transfer,Money Transfer
+how_to,How to
+leave_review,Leave a review
+sorted_descending,sorted descending
+sorted_ascending,sorted ascending
+validation.required,Required
+validation.email,Invalid Email
+validation.min,Must have at least {{value}} characters
+validation.max,Must have at most {{value}} characters
+validation.length,Field must have {{value}} characters

@@ -1,0 +1,18 @@
+﻿inbox,உட்பெட்டி
+table_headers_subject,பொருள்
+table_headers_case_id,வழக்கு ஐடி
+table_headers_last_updated,கடைசியாக புதுப்பிக்கப்பட்டது
+table_headers_status,நிலை
+buttons_create_escalation,#பெயர்?
+buttons_close_escalation,விரிவாக்கத்தை மூடு
+buttons_reply,பதில் அளிக்கவும்
+buttons_send,அனுப்புக
+buttons_cancel,ரத்து செய்யுங்கள்
+inbox_issue_notes_transaction_escalation,பரிவர்த்தனை விரிவாக்கம்
+inbox_issue_notes_input_texthoulder,உங்கள் செய்தியை உள்ளிடத் தொடங்குங்கள்
+inbox_issue_notes_success_close_escalation,உங்கள் விரிவாக்கம் வெற்றிகரமாக மூடப்பட்டது
+inbox_issue_notes_file_type_error,பி.டி.எப் படங்கள் மட்டுமே ஆதரிக்கப்படுகின்றன
+filter_all,அனைத்து விரிவாக்கங்களும்
+filter_resolved,தீர்க்கப்பட்டது
+filter_in_progress,செயல்பாட்டில் & முன்னேற்றத்தில் உள்ளது
+filter_open,திற

@@ -1,0 +1,26 @@
+﻿page_title,Log In | Remitbee Online Money Transfer
+page_description,Welcome back to Remitbee! Please sign in to your personal account to send money online from Canada.
+back_to_login,Back to login
+dont_have_account,Don't have an account yet?
+enter_the_6_digit_code,Enter the 6-digit code you received by sms
+enter_your_email_to_reset,Enter your email to reset your password
+enter_your_verification_code,ඔබගේ සත්‍යාපන කේතය ඇතුළත් කරන්න
+forgot_your_password,Forgot your password?
+login,ඇතුල් වන්න
+remember_device,Remember this device
+resend_code,Resend code
+send_reset_link,Send reset link
+signup,Sign Up
+the_email_maybe_on_spam,"If you do not receive this email, please check your spam or bulk email folder."
+verify_code,Verify code
+welcome_to_remitbee,Welcome back to Remitbee!
+weve_sent_a_verification_code,Check your phone. We've sent you a verification code.
+email_label,Email
+password_label,Password
+only_heroes_title,නවෝත්පාදනයට ආදරය කරන අය Remitbee තෝරා ගනු ඇත
+choose_title,Choose
+remitbee_title,Remitbee
+weve_sent_you_a_reset_link,Check your email. We've sent you a recovery link to set a new password for your account.
+code_resend_success,Another code was sent to your phone
+code_resend_error,There was a problem while sending you a new code.
+not_a_robot,"Please, click on ""I'm not a robot"" to proceed"

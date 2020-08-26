@@ -1,0 +1,59 @@
+﻿wallet_box_title,உங்கள் பணப்பை & வாலிட் இருப்பு
+wallet_id,வாலிட் ஐடி
+wallet_box_transfer_button,இடமாற்றம்
+wallet_box_deposit_button,அனுப்புதல் & வைப்பு
+wallet_box_link,திரும்பப் பெற வேண்டுமா?
+title,ரெமிட்பீ வாலிட் & பணப்பை
+history_table_title,உங்கள் வாலிட் & பணப்பை பரிவர்த்தனைகள்
+history_table_header_date,தேதி
+history_table_header_description,விளக்கம்
+history_table_header_amount,அனுப்பிய தொகை
+history_table_header_status,நிலை
+history_table_header_total_balance,மொத்த சமநிலை
+history_table_header_details,விவரங்கள்
+history_table_row_item_view_details,விபரங்களை பாருங்கள்
+chip_label,சிப்லேபல்
+date,தேதி:
+alt_amount,தொகை:
+free,இலவசம்
+wallet_view_details_dialog_title,வாலிட் பரிவர்த்தனை விவரங்கள்
+wallet_view_details_dialog_stepper_initiated,தொடங்கப்பட்டது
+wallet_view_details_dialog_stepper_in_queue,வரிசையில்
+wallet_view_details_dialog_stepper_completed,நிறைவு
+wallet_view_details_dialog_stepper_failed,அங்கீகரிக்கப்படவில்லை
+wallet_view_details_dialog_transaction_id,பரிவர்த்தனை ஐடி
+wallet_view_details_dialog_payment_method,கட்டணம் செலுத்தும் முறை
+wallet_view_details_dialog_transaction_status,பரிவர்த்தனை நிலை
+wallet_view_details_dialog_date_initiated,தொடங்கப்பட்ட தேதி
+wallet_view_details_dialog_date_completed,தேதி முடிந்தது
+wallet_view_details_dialog_amount,அனுப்பிய தொகை
+wallet_view_details_dialog_total_wallet_balance,மொத்த பணப்பை & வாலிட் இருப்பு
+wallet_view_details_dialog_share_button,பகிர்
+wallet_view_details_dialog_download_button,பதிவிறக்க
+wallet_view_details_dialog_continue_button,அடுத்தது
+wallet_deposit_dialog_title,வைப்பு & பனம் அனுப்பும் முறையைத் தேர்வுசெய்க
+wallet_deposit_dialog_sub_title,ரெமிட்பீ பணப்பையை & வாலிடிருந்து நிதியளிக்க நீங்கள் பயன்படுத்த விரும்பும் வைப்பு வகையைத் தேர்ந்தெடுக்கவும்.
+wallet_deposit_dialog_switch_option_1,இ-பரிமாற்றம்
+wallet_deposit_dialog_switch_option_2,பில் கட்டணம்
+wallet_deposit_dialog_banks_available,இதற்கு கிடைக்கிறது:
+dialog_success_title,உங்கள் பரிவர்த்தனை வெற்றிகரமாக இருந்தது
+dialog_failed_title,உங்கள் பரிவர்த்தனை முடிக்கப்படவில்லை
+dialog_failed_message,மேலும் விவரங்களுக்கு எங்கள் வாடிக்கையாளர் சேவை சேனல்களில் & மையம் ஒன்றை அணுகவும்.
+dialog_got_it,சரி
+dialog_instructions,பனம் அனுப்பும் வழிமுறைகளைக் காட்டுங்கள்
+dialog_open_bank,திறந்த வங்கி வலைத்தளம்
+dialog_eft_success_message,உங்கள் நிதி 2 வணிக நாட்களுக்குள் உங்கள் வாலிட் & பணப்பையில் வர வேண்டும். இது சேர்க்கப்பட்டதும் உங்களுக்கு அறிவிப்பை அனுப்புவோம்.
+dialog_bill_payment_success_message,மாலை 4 மணிக்கு EST க்கு முன் அனுப்பினால் உங்கள் நிதி 1 வணிக நாளுக்குள் வர வேண்டும். இது சேர்க்கப்பட்டவுடன் உங்களுக்கு ஒரு அறிவிப்பை அனுப்புவோம்.
+dialog_e_transfer_success_message,"உங்கள் இ-பரிமாற்றத்தை நாங்கள் பெற்றவுடன், அது உங்கள் வாலிட் & பணப்பையில் புதுப்பிக்கப்படும். வழக்கமாக 1-4 மணி நேரத்திற்குள் சேர்க்கப்பட்டவுடன் ஒரு அறிவிப்பை உங்களுக்கு அனுப்புவோம்."
+filter_status,இப்போதைய நிலை
+filter_all,அனைத்தும்
+status_completed,நிறைவு
+status_pending,நிலுவையில் உள்ளது
+filter_payment_types,கட்டண வகைகள்
+payment_types_bill_payment,வில் கட்டணம்
+payment_types_debit,டெபிட்
+payment_types_interact,தொடர்பு கொள்ளுங்கள்
+payment_types_e_transfer,மின் பரிமாற்றத்துடன் தொடர்பு கொள்ளுங்கள்
+payment_types_wallet,வாலிட்
+filter_start_date,தொடக்க தேதி
+filter_end_date,கடைசி தேதி

@@ -1,0 +1,35 @@
+﻿account_details,Account Details
+account_information_successfully_updated,Account information successfully updated
+address,Address
+address_complement,ඒකකය ( unit/ suite)
+city,නගරය
+contact_information,Contact information
+contact_us,contact us
+country,රට (Country)
+date_of_birth,උපන්දිනය
+email_address,Email address
+first_name,මුල් නම
+industry,Industry
+last_name,අවසන් නම
+occupation,Occupation
+once_your_personal_details,"Once your personal details were verified, you can't change them. If you need to modify your account information, please"
+personal_details,Personal details
+please_update_your_occupation,Please update your industry and occupation information if there were any changes in your employment.
+phone_number,දුරකතන
+phone_number2,දුරකතන
+postal_code,තැපැල් කේතය (Postal Code)
+province,පළාත (Province)
+save_changes,Save changes
+start_typing_address,ඔබේ ලිපිනය ටයිප් කිරීම ආරම්භ කරන්න
+street_address,පාර ලිපිනය
+type_your_occupation,Type your occupation
+verify_phone,Verify your phone number
+your_address,Your address
+your_ocupation,Your occupation
+postal_code_error,Enter valid postal code
+email_error,Enter valid email.
+contact_error,Enter valid phone number
+not_loaded,not loaded
+invalid_date_format,අවලංගු දිනය ආකෘතිය
+date_should_not_be_before_minimal_date,දිනය අවම දිනට පෙර නොවිය යුතුය
+date_should_not_be_after_maximal_date,දිනය උපරිම දිනයෙන් පසු නොවිය යුතුය
